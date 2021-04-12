@@ -27,7 +27,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - uses: actions/checkout@v2
       - uses: borales/actions-yarn@v2.0.0
         with:
           cmd: install # will run `yarn install` command
@@ -43,5 +42,6 @@ jobs:
         uses: s0/git-publish-subdir-action@master
         env:
           REPO: self
+          FOLDER: /main
           BRANCH: compiled
           GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
