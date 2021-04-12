@@ -46,17 +46,19 @@ jobs:
           yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
           yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
 
-      # Copy files to folder
-      - name: Copy files to folder
-        run: |
-          mkdir -p compiled
-          cp -r allowlist.txt compiled/,
-          cp -r blocklist.txt compiled/
+      # # Copy files to folder
+      # - name: Copy files to folder
+      #   run: |
+      #     mkdir -p compiled
+      #     cp -r allowlist.txt compiled/,
+      #     cp -r blocklist.txt compiled/
 
-      # - name: Deploy
-      #   uses: s0/git-publish-subdir-action@master
-      #   env:
-      #     REPO: self
-      #     FOLDER: /
-      #     BRANCH: main
-      #     GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@master
+        env:
+          REPO: self
+          FOLDER: /compiled
+          BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+          MESSAGE: "This updates the content to the commit {sha} that had the message:\n{msg}"
+          SKIP_EMPTY_COMMITS: true
