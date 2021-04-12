@@ -3,14 +3,18 @@
   "sources": [
     {
       "source": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt",
-      "type": "hosts",
-      "transformations": [
-        "Deduplicate",
-        "Compress",
-        "RemoveModifiers",
-        "Validate",
-        "InvertAllow"
-      ]
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt",
+      "type": "hosts"
     }
+  ],
+  "transformations": [
+    "Deduplicate",
+    "Compress",
+    "RemoveModifiers",
+    "Validate",
+    "InvertAllow"
   ]
 }
