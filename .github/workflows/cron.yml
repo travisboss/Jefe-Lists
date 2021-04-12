@@ -52,7 +52,7 @@ jobs:
           mkdir compiled
           cp -r allowlist.txt compiled/*,
           cp -r blocklist.txt compiled/*
-              - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v1
         with:
           name: compiled
           path: compiled
