@@ -53,11 +53,17 @@ jobs:
       #     cp -r allowlist.txt compiled/,
       #     cp -r blocklist.txt compiled/
 
-      - name: copy file
+      - name: Copy blocklist
         uses: canastro/copy-file-action@master
         with:
           source: "blocklist.txt"
-          target: "compiled/blocklist.txt"
+          target: "/compiled/blocklist.txt"
+
+      - name: Copy allowlist
+        uses: canastro/copy-file-action@master
+        with:
+          source: "allowlist.txt"
+          target: "/compiled/allowlist.txt"
 
       # - name: Deploy
       #   uses: s0/git-publish-subdir-action@master
