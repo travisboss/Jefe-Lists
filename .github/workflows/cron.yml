@@ -50,8 +50,8 @@ jobs:
       - name: Copy files to folder
         run: |
           mkdir -p compiled
-          cat allowlist.txt >> compiled/allowlist.txt,
-          cat blocklist.txt >> compiled/blocklist.txt
+          cp -r allowlist.txt compiled/,
+          cp -r blocklist.txt compiled/
 
       # - name: Deploy
       #   uses: s0/git-publish-subdir-action@master
