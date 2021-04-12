@@ -38,3 +38,10 @@ jobs:
         run: |
           yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
           yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
+
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@main
+        env:
+          REPO: self
+          BRANCH: compiled
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
