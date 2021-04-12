@@ -54,4 +54,4 @@ jobs:
           BRANCH: main
           SKIP_EMPTY_COMMITS: true
           GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
-           MESSAGE: "This updates the content to the commit {sha} that had the message:\n{msg}"
+          MESSAGE: "This updates the content to the commit {sha} that had the message:\n{msg}"
