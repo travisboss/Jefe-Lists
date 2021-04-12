@@ -1,0 +1,15 @@
+{
+  "name": "Jefe Blocklist",
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+      "type": "hosts",
+      "transformations": [
+        "Deduplicate",
+        "Compress",
+        "RemoveModifiers",
+        "Validate"
+      ]
+    }
+  ]
+}
