@@ -49,8 +49,8 @@ jobs:
       # Copy files to folder
       - name: Copy files to folder
          run: |
-           cp allowlist.txt compiled/,
-           cp blocklist.txt compiled/
+           cp allowlist.txt compiled,
+           cp blocklist.txt compiled
 
       # - name: Deploy
       #   uses: s0/git-publish-subdir-action@master
