@@ -45,6 +45,7 @@ jobs:
         run: |
           yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
           yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
+
       # Copy files to folder
       - name: Copy files to folder
          run: |
