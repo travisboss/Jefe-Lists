@@ -120,10 +120,6 @@
     {
       "source": "https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt",
       "type": "hosts"
-    },
-    {
-      "source": "https://dbl.oisd.nl/",
-      "type": "hosts"
     }
   ],
   "transformations": ["Deduplicate", "Compress", "RemoveModifiers", "Validate"],
