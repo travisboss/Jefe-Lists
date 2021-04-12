@@ -40,7 +40,7 @@ jobs:
           yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
 
       - name: Deploy
-        uses: s0/git-publish-subdir-action@main
+        uses: s0/git-publish-subdir-action@master
         env:
           REPO: self
           BRANCH: compiled
