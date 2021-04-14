@@ -6,7 +6,7 @@
       "type": "hosts"
     },
     {
-      "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
+      "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts ",
       "type": "hosts"
     },
     {
@@ -14,15 +14,67 @@
       "type": "hosts"
     },
     {
+      "source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://someonewhocares.org/hosts/zero/hosts",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
+      "type": "hosts"
+    },
+    {
+      "source": "https://winhelp2002.mvps.org/hosts.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://v.firebog.net/hosts/neohostsbasic.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://hostsfile.mine.nu/hosts0.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://v.firebog.net/hosts/BillStearns.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://hostsfile.org/Downloads/hosts.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://www.joewein.net/dl/bl/dom-bl-base.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://v.firebog.net/hosts/Kowabit.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://adblock.mahakala.is",
+      "type": "hosts"
+    },
+    {
       "source": "https://adaway.org/hosts.txt",
       "type": "hosts"
     },
     {
-      "source": "https://v.firebog.net/hosts/AdguardDNS.txt ",
+      "source": "https://v.firebog.net/hosts/AdguardDNS.txt",
       "type": "hosts"
     },
     {
-      "source": "https://v.firebog.net/hosts/Admiral.txt ",
+      "source": "https://v.firebog.net/hosts/Admiral.txt",
       "type": "hosts"
     },
     {
@@ -50,6 +102,10 @@
       "type": "hosts"
     },
     {
+      "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+      "type": "hosts"
+    },
+    {
       "source": "https://v.firebog.net/hosts/Easyprivacy.txt",
       "type": "hosts"
     },
@@ -74,7 +130,39 @@
       "type": "hosts"
     },
     {
+      "source": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://v.firebog.net/hosts/Airelle-trc.txt",
+      "type": "hosts"
+    },
+    {
       "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
       "type": "hosts"
     },
     {
@@ -114,11 +202,23 @@
       "type": "hosts"
     },
     {
-      "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
+      "source": "https://v.firebog.net/hosts/Prigent-Malware.txt",
       "type": "hosts"
     },
     {
-      "source": "https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt",
+      "source": "https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://v.firebog.net/hosts/Airelle-hrsk.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
       "type": "hosts"
     }
   ],
