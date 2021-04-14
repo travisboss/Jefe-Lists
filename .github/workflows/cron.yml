@@ -23,7 +23,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: borales/actions-yarn@v2.0.0
         with:
-          if: steps.cache.outputs.cache-hit != 'true'
           cmd: install # will run `yarn install` command
 
       - name: Create local changes
