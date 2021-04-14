@@ -41,49 +41,17 @@ jobs:
       - uses: borales/actions-yarn@v2.0.0
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Create local changes
         run: |
           yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
           yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
-
-      - name: switching from HTTPS to SSH
-        run: git remote set-url origin ${{ secrets.ssh }}
-      - name: check for changes
-        run: git status
-      - name: stage changed files
-        run: git add .
-      - name: commit changed files
-        run: git commit -m "Auto updating allowlist.txt and denylist.txt"
-      - name: fetch from main
-        run: git fetch origin main
-      - name: push code to main
-        run: git push origin HEAD:main
-
-      # # Copy files to folder
-      # - name: Copy files to folder
-      #   run: |
-      #     mkdir -p compiled
-      #     cp -r allowlist.txt compiled/,
-      #     cp -r blocklist.txt compiled/
-
-      # - name: Copy blocklist
-      #   uses: canastro/copy-file-action@master
-      #   with:
-      #     source: "blocklist.txt"
-      #     target: "compiled/"
-
-      # - name: Copy allowlist
-      #   uses: canastro/copy-file-action@master
-      #   with:
-      #     source: "allowlist.txt"
-      #     target: "compiled/"
-
-      # - name: Deploy
-      #   uses: s0/git-publish-subdir-action@master
-      #   env:
-      #     REPO: self
-      #     FOLDER: /
-      #     BRANCH: compiled
-      #     GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
-      #     MESSAGE: "This updates the content to the commit {sha} that had the message:\n{msg}"
-      #     SKIP_EMPTY_COMMITS: true
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com",
+          git config --local user.name "github-actions[bot]",
+          git commit -am "Make changes to allowlist.txt and blocklist.txt"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+          branch: ${{ github.ref }}
