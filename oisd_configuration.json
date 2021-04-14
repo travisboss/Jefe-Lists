@@ -1,9 +1,13 @@
 {
-  "name": "Jefe Blocklist OISD",
+  "name": "Jefe Blocklist OISD + The Great Wall DoH",
   "sources": [
     {
       "source": "https://abp.oisd.nl/",
       "type": "adblock"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt",
+      "type": "hosts"
     }
   ],
   "transformations": [
