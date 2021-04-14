@@ -27,10 +27,10 @@ jobs:
 
       - name: Create local changes
         run: |
-          yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt -v,
-          yarn hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt -v,
-          yarn hostlist-compiler -c non_ticked_block_configuration.json -o non_ticked_blocklist.txt -v,
-          yarn hostlist-compiler -c ticked_block_configuration.json -o non-ticked-blocklist.txt -v
+          yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
+          yarn hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt,
+          yarn hostlist-compiler -c non_ticked_block_configuration.json -o non_ticked_blocklist.txt,
+          yarn hostlist-compiler -c ticked_block_configuration.json -o ticked-blocklist.txt
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
