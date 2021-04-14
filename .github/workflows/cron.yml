@@ -54,10 +54,10 @@ jobs:
         run: git add .
       - name: commit changed files
         run: git commit -m "Auto updating allowlist.txt and denylist.txt"
-      - name: fetch from master
-        run: git fetch origin master
-      - name: push code to master
-        run: git push origin HEAD:master
+      - name: fetch from main
+        run: git fetch origin main
+      - name: push code to main
+        run: git push origin HEAD:main
 
       # # Copy files to folder
       # - name: Copy files to folder
