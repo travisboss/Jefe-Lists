@@ -6,11 +6,7 @@
       "type": "hosts"
     },
     {
-      "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts ",
-      "type": "hosts"
-    },
-    {
-      "source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+      "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
       "type": "hosts"
     },
     {
@@ -39,30 +35,6 @@
     },
     {
       "source": "https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt",
-      "type": "hosts"
-    },
-    {
-      "source": "https://hostsfile.mine.nu/hosts0.txt",
-      "type": "hosts"
-    },
-    {
-      "source": "https://v.firebog.net/hosts/BillStearns.txt",
-      "type": "hosts"
-    },
-    {
-      "source": "https://hostsfile.org/Downloads/hosts.txt",
-      "type": "hosts"
-    },
-    {
-      "source": "https://www.joewein.net/dl/bl/dom-bl-base.txt",
-      "type": "hosts"
-    },
-    {
-      "source": "https://v.firebog.net/hosts/Kowabit.txt",
-      "type": "hosts"
-    },
-    {
-      "source": "https://adblock.mahakala.is",
       "type": "hosts"
     },
     {
@@ -154,10 +126,6 @@
       "type": "hosts"
     },
     {
-      "source": "https://v.firebog.net/hosts/Airelle-trc.txt",
-      "type": "hosts"
-    },
-    {
       "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
       "type": "hosts"
     },
@@ -210,14 +178,6 @@
       "type": "hosts"
     },
     {
-      "source": "https://v.firebog.net/hosts/Airelle-hrsk.txt",
-      "type": "hosts"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt",
-      "type": "hosts"
-    },
-    {
       "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
       "type": "hosts"
     }
@@ -229,7 +189,5 @@
     "RemoveComments",
     "Validate"
   ],
-  "exclusions_sources": [
-    "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
-  ]
+  "exclusions_sources": ["allowlist.txt"]
 }
