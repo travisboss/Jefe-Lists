@@ -38,14 +38,15 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Create local changes
         run: |
-          yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
-          yarn hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt,
-          # yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
+          yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt -v,
+          yarn hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt -v,
+          # yarn hostlist-compiler -c block_configuration.json -o blocklist.txt -v
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com",
           git config --local user.name "github-actions[bot]",
-          git commit -m "Make changes to allowlist.txt and blocklist.txt" -a
+          git add ".",
+          git commit -m "Make changes to allowlist.txt and blocklist.txt"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
