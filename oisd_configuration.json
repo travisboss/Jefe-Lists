@@ -6,6 +6,12 @@
       "type": "adblock"
     }
   ],
-  "transformations": ["Deduplicate", "Compress", "RemoveModifiers", "Validate"],
+  "transformations": [
+    "Deduplicate",
+    "Compress",
+    "RemoveModifiers",
+    "RemoveComments",
+    "Validate"
+  ],
   "exclusions_sources": ["allowlist.txt"]
 }
