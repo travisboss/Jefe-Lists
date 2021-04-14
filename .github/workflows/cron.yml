@@ -22,13 +22,18 @@ jobs:
     steps:
       - name: Cache multiple paths
         uses: actions/cache@v2
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
         with:
-          path: |
-            ~/cache
-            !~/cache/exclude
-            **/node_modules
-          key: ${{ runner.os }}-${{ hashFiles('**/lockfiles') }}
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-}
+        with:
+         path: ~/.npm
+         key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+            # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - uses: borales/actions-yarn@v2.0.0
         with:
@@ -45,7 +50,7 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add "."
+          git add -A
           git commit -m "Make changes to allowlist.txt and blocklist.txt"
       - name: Push changes
         uses: ad-m/github-push-action@master
