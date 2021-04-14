@@ -45,6 +45,7 @@ jobs:
         run: |
           yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
           yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
+          yarn hostlist-compiler -c oisd.json -o oisd_blocklist.txt
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com",
