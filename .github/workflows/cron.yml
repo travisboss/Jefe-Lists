@@ -45,7 +45,8 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com",
           git config --local user.name "github-actions[bot]",
-          git commit -am "Make changes to allowlist.txt and blocklist.txt"
+          git add .,
+          git commit -m "Make changes to allowlist.txt and blocklist.txt"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
