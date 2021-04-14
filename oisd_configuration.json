@@ -14,6 +14,6 @@
     "Validate"
   ],
   "exclusions_sources": [
-    "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
+    "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/filter"
   ]
 }
