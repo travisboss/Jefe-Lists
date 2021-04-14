@@ -46,6 +46,19 @@ jobs:
           yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
           yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
 
+      - name: switching from HTTPS to SSH
+        run: git remote set-url origin ${{ secrets.ssh }}
+      - name: check for changes
+        run: git status
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m "Auto updating allowlist.txt and denylist.txt"
+      - name: fetch from master
+        run: git fetch origin master
+      - name: push code to master
+        run: git push origin HEAD:master
+
       # # Copy files to folder
       # - name: Copy files to folder
       #   run: |
@@ -53,17 +66,34 @@ jobs:
       #     cp -r allowlist.txt compiled/,
       #     cp -r blocklist.txt compiled/
 
-      - name: Copy blocklist
-        uses: canastro/copy-file-action@master
-        with:
-          source: "blocklist.txt"
-          target: "compiled/"
+      # - name: Copy blocklist
+      #   uses: canastro/copy-file-action@master
+      #   with:
+      #     source: "blocklist.txt"
+      #     target: "compiled/"
 
-      - name: Copy allowlist
-        uses: canastro/copy-file-action@master
-        with:
-          source: "allowlist.txt"
-          target: "compiled/"
+      # - name: Copy allowlist
+      #   uses: canastro/copy-file-action@master
+      #   with:
+      #     source: "allowlist.txt"
+      #     target: "compiled/"
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: python ./.github/workflows/todo_List.py
+    - name: switching from HTTPS to SSH
+      run: git remote set-url origin ${{ secrets.ssh }}
+    - name: check for changes
+      run: git status
+    - name: stage changed files
+      run: git add .
+    - name: commit changed files
+      run: git commit -m "Auto updating TODO.txt"
+    - name: fetch from master
+      run: git fetch origin master
+    - name: push code to master
+      run: git push origin HEAD:master
 
       # - name: Deploy
       #   uses: s0/git-publish-subdir-action@master
