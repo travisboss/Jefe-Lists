@@ -44,7 +44,7 @@ jobs:
       - name: Create local changes
         run: |
           yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt,
-          yarn hostlist-compiler -c block_configuration.json -o blocklist.txt
+          yarn hostlist-compiler -c block_configuration.json -o blocklist.txt,
           yarn hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
       - name: Commit files
         run: |
