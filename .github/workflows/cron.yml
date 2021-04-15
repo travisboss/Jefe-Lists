@@ -30,7 +30,7 @@ jobs:
           yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt
           yarn hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
           yarn hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
-          yarn hostlist-compiler -c wally3k_blocklist_configuration.json -o wally3k-blocklist.txt
+          yarn hostlist-compiler -c wally3k_blocklist_configuration.json -o wally3k_blocklist.txt
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

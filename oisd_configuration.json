@@ -17,7 +17,5 @@
     "RemoveComments",
     "Validate"
   ],
-  "exclusions_sources": [
-    "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
-  ]
+  "exclusions_sources": ["allowlist.txt"]
 }

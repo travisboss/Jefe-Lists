@@ -1,2 +1,3 @@
 #untrack files
 node_modules
+*.txt
