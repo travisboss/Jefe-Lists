@@ -116,10 +116,6 @@
     {
       "source": "https://urlhaus.abuse.ch/downloads/hostfile/",
       "type": "hosts"
-    },
-    {
-      "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browse",
-      "type": "hosts"
     }
   ],
   "transformations": [
