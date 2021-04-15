@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist Ticked
-! Last modified: 2021-04-15T18:39:18.449Z
+! Last modified: 2021-04-15T19:51:54.902Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2060,6 +2060,8 @@
 ||24godzinynapomoc.site^
 ||24lite.eu^
 ||24tygodnik.pl^
+||24wydarzenia.eu^
+||24wydarzenia.pl^
 ||24xforex.com^
 ||24-biznes.eu^
 ||60dnipremium.cloud^
@@ -4782,6 +4784,7 @@
 ||nytopu.dm-progress.ru^
 ||n-mobile.net^
 ||o2-online.pl^
+||obadatrendy.com^
 ||obecnybizznespolski.website^
 ||obieranie-strony.eu^
 ||obkzrcclean2.az.pl^
@@ -5100,6 +5103,7 @@
 ||olx-z.pl^
 ||olx-zaplata.pl^
 ||olx--pl.online^
+||olx.pl-deliverybuy.casa^
 ||olympusholding.co^
 ||olympusmarkets.com^
 ||omawiac-zwyciezce.eu^
@@ -5363,6 +5367,7 @@
 ||pay22-olx.pl^
 ||pay23-olx.pl^
 ||pay24.com.pl^
+||pay24.website^
 ||pay24-olx.pl^
 ||pay25-olx.pl^
 ||pay26-olx.pl^
@@ -6595,6 +6600,7 @@
 ||sustainablecities.net^
 ||suwalskieprzytulisko.pl^
 ||svd-warszawa.pl^
+||sv-forum.com^
 ||swapgg.pl^
 ||swiateczne-zamieszanie.eu^
 ||swiatfilmikow.pl^
@@ -6872,6 +6878,7 @@
 ||urmediaz.com^
 ||urywek-glosu.eu^
 ||urzadkarny.net^
+||urzadpl.net^
 ||urzadskb.net^
 ||urzad-gov.net^
 ||usdsy.com^
@@ -7150,6 +7157,7 @@
 ||wydajesienam.cyou^
 ||wydaniewiiadomossc24.website^
 ||wydarzenia.net.pl^
+||wydarzenia24.eu^
 ||wydarzeniaroku020.site^
 ||wydarzenia-regionalne.co.pl^
 ||wydawaj-decyzje.eu^
@@ -140324,6 +140332,7 @@ mosumumopo
 ||betone.co.kr^
 ||betycopaints.com^
 ||beveragesmiami.solucioneslink.com^
+||bhavaniengineering.com^
 ||bigmikesupplies.co.za^
 ||bilbosaquet.ug^
 ||bilhen.co.za^
@@ -140350,7 +140359,6 @@ mosumumopo
 ||bophelocare.co.za^
 ||bounces.mi-fs.com^
 ||boutiqueofferte.com^
-||bradleyinstitute.co.za^
 ||brandtrust.com.pk^
 ||braunfinancial.com.au^
 ||brendanquine.com^
@@ -140516,7 +140524,6 @@ mosumumopo
 ||e.digitsector.com^
 ||e.sldov.ru^
 ||easymatchprediction.com^
-||edu.saicraftsman.com^
 ||efficientegroup.com^
 ||ekrempendik.com^
 ||elbauldenora.com^
@@ -140910,6 +140917,7 @@ mosumumopo
 ||obseques-conseils.com^
 ||odev.eminekoka.com^
 ||oguzdoganay.com^
+||ohe.ie^
 ||ohsewgorgeous.co.uk^
 ||okaybaby.ie^
 ||oleholeh.memangbeda.website^
@@ -141288,6 +141296,7 @@ mosumumopo
 ||unyazitelecom.com^
 ||upcbpta.com^
 ||urbancare.tech^
+||used-jeans.fr^
 ||usmadetshirts.com^
 ||uss.ac.th^
 ||uzzepay.com.br^
