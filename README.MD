@@ -1,6 +1,6 @@
 [![Cron CI](https://github.com/travisboss/Jefe-Lists/actions/workflows/cron.yml/badge.svg?branch=main)](https://github.com/travisboss/Jefe-Lists/actions/workflows/cron.yml)
 
-Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD](https://oisd.nl/), [Wally3K](https://firebog.net/), [NextDNS](https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json), [Energized](https://github.com/EnergizedProtection/unblock) and [Sekhan](https://github.com/Sekhan/TheGreatWall) for creating these lists, without them I would not be writing these words.
+Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD](https://oisd.nl/), [Wally3K](https://firebog.net/), [NextDNS](https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json), [Energized](https://github.com/EnergizedProtection/unblock) and [oneoffdallas](https://github.com/oneoffdallas/dohservers) for creating these lists, without them I would not be writing these words.
 
 <hr />
 
