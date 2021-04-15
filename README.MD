@@ -11,3 +11,5 @@ All I am trying to do is compile some adblock syntax only lists with Adguards Ho
 If you are unsure what list to use I generally recommend `oisd_blocklist.txt`, but feel free to try the others and see how they work for you. If you find an issue please submit a bug and PR's are welcome! I am looking for help to maybe streamline my github action.
 
 This list is updated nightly at 1am.
+
+I have changed the name of the ticked list to wally3k_blocklist.txt and for now I have removed the non-ticked list, there are too many issues with the lists themselves and the build time is just too long and unreliable.
