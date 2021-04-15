@@ -1,4 +1,4 @@
-Big thanks to [OISD](https://oisd.nl/), [Wally3K](https://firebog.net/), [Energized](https://github.com/EnergizedProtection/unblock) and [Sekhan](https://github.com/Sekhan/TheGreatWall) for creating these lists, without them I would not be writing these words.
+Big thanks to [OISD](https://oisd.nl/), [Wally3K](https://firebog.net/), [NextDNS](https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json), [Energized](https://github.com/EnergizedProtection/unblock) and [Sekhan](https://github.com/Sekhan/TheGreatWall) for creating these lists, without them I would not be writing these words.
 
 <hr />
 
