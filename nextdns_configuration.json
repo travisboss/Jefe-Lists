@@ -1,0 +1,31 @@
+{
+  "name": "Jefe Blocklist NextDNS",
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
+      "type": "hosts"
+    }
+  ],
+  "transformations": [
+    "Deduplicate",
+    "Compress",
+    "RemoveModifiers",
+    "RemoveComments",
+    "Validate"
+  ],
+  "exclusions_sources": [
+    "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
+  ]
+}
