@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist Ticked
-! Last modified: 2021-04-15T02:05:38.119Z
+! Last modified: 2021-04-15T02:18:10.225Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -119984,7 +119984,6 @@ mosumumopo
 ||ayamallah.com^
 ||azraktours.com^
 ||backgrounds.pk^
-||balealgodon.mx^
 ||bangkok-orchids.com^
 ||bangladeshunbound.com^
 ||bary.sz4h.com^
@@ -120026,6 +120025,7 @@ mosumumopo
 ||bophelocare.co.za^
 ||bounces.mi-fs.com^
 ||boutiqueofferte.com^
+||bradleyinstitute.co.za^
 ||braunfinancial.com.au^
 ||brendanquine.com^
 ||brideofmessiah.com^
@@ -120048,7 +120048,6 @@ mosumumopo
 ||cacaoprojects.com^
 ||callbury.in^
 ||camminachetipassa.it^
-||canadianwork.cc^
 ||capitalgroup-kw.com^
 ||capoeiraventrelivre.com^
 ||caramelpleven.eu^
@@ -120059,6 +120058,7 @@ mosumumopo
 ||ccucu.com^
 ||cdaonline.com.ar^
 ||cendekiabinaaksara.com^
+||chardhamdodham.com^
 ||chengtouji.com^
 ||chezalice.co.za^
 ||chocolateuncle.online^
@@ -120366,6 +120366,7 @@ mosumumopo
 ||lasermobilesounds.co.uk^
 ||lauratomismith.com^
 ||laus.club^
+||lawforall.edu.lk^
 ||lceventos.net^
 ||ldgcorp.com^
 ||learning.real-academy.net^
@@ -120594,7 +120595,6 @@ mosumumopo
 ||rafalhryniewicki.pl^
 ||rainbowisp.info^
 ||rakeshkhatri.in^
-||raodigitalmedia.com^
 ||raquelhelena.com.br^
 ||rarlabarchiver.ac^
 ||rasadbar.ir^
