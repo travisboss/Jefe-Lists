@@ -8,7 +8,6 @@
   ],
   "transformations": [
     "Deduplicate",
-    "Compress",
     "RemoveModifiers",
     "RemoveComments",
     "Validate",

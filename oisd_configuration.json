@@ -7,12 +7,12 @@
     },
     {
       "source": "https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt",
-      "type": "hosts"
+      "type": "hosts",
+      "transformations": ["Compress"]
     }
   ],
   "transformations": [
     "Deduplicate",
-    "Compress",
     "RemoveModifiers",
     "RemoveComments",
     "Validate"
