@@ -8,7 +8,7 @@ Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD]
 
 All I am trying to do is compile some adblock syntax only lists with Adguards Hostlist Compiler and what you see here is:
 
-**Can use with adblock, adguard home, ublock, adblock, adblockplus, opera and adnuseaum**
+**Can use with adguard home, ublock, adblock, adblockplus, opera and adnuseaum**
 
 1. allowlist.txt - This is a compiled down list from Energized Unblock, simply removing a lot of comments and any parts that are not allowed per Adguard.
 2. wally3k_blocklist.txt - This is a compiled list from Wally3k of all his ticked lists at https://v.firebog.net/hosts/lists.php?type=tick checked against Energized Unblock, and removing all comments.
