@@ -125,5 +125,5 @@
     "RemoveComments",
     "Validate"
   ],
-  "exclusions_sources": ["allowlist.txt"]
+  "exclusions_sources": ["allowlist.txt", "exception.txt"]
 }
