@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist NextDNS
-! Last modified: 2021-04-18T07:26:57.067Z
+! Last modified: 2021-04-19T07:27:22.487Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -51077,6 +51077,7 @@
 ||news-l.play.cp81.ott.cibntv.net^
 ||omgmta.play.cp81.ott.cibntv.net^
 ||msga.ptqy.gitv.tv^
+||show.ssports.com^
 ||store.ptqy.gitv.tv^
 ||img1.g.pptv.com^
 ||img2.g.pptv.com^
@@ -51285,8 +51286,6 @@
 ||tj.vidown.cn^
 ||mini.jijiplayer.com^
 ||txtad.jijiplayer.com^
-||ee.grtnahd.cn^
-||m.grtnahd.cn^
 ||www.xn--i6qs37am6iwyqffc.com^
 ||xdm.ahqlx.top^
 ||ycjisa.cn^
@@ -51299,11 +51298,9 @@
 ||c.lelangegg.cn^
 ||bnetds.cn^
 ||ee.mtmfjdo.cn^
-||ee.xfya3.cn^
 ||eo.4s5n.cn^
 ||hm.baidu.com.caiziwuyou.com^
 ||m.mtmfjdo.cn^
-||m.xfya3.cn^
 ||mo.4s5n.cn^
 ||mo.mktrkn.cn^
 ||s.yhgongsi.com^
@@ -51332,9 +51329,7 @@
 ||v.mininini.cn^
 ||c.mininini.cn^
 ||api.vasb.cn^
-||ee.45xa.cn^
 ||img.hywly.com^
-||m.45xa.cn^
 ||m.qmlcdlo.cn^
 ||mo.4k9b.cn^
 ||qd.easylive.net^
@@ -51429,7 +51424,6 @@
 ||8131.qizhihaotian.cn^
 ||8132.qizhihaotian.cn^
 ||jsjs.jbzj.com^
-||jscode.jbzj.com^
 ||icws.jb51.net^
 ||wm.kolinay.com^
 ||ad.egou.com^
@@ -52221,6 +52215,7 @@
 ||a.xmdly.com^
 ||a.yiyuancq.com^
 ||a-cn.duoyi.com^
+||a0c.cn^
 ||a1.huiqituan.com^
 ||a1.lmaq.cn^
 ||a1.openxt.cn^
@@ -52372,6 +52367,7 @@
 ||b3.jandan.net^
 ||b3.jiasudu666.com^
 ||b4xuj.zzhhts.com^
+||b9g4.nxwfhjvi.cn^
 ||ba.fqzds.com^
 ||ba.n3wz6.cn^
 ||baby.yf898.com^
@@ -52465,6 +52461,7 @@
 ||c.idasui.cn^
 ||c.j782e.cn^
 ||c.jntxst.cn^
+||c.jumorecn.com.cn^
 ||c.k429fma.com^
 ||c.kangai100.cn^
 ||c.kbf365.cn^
@@ -52475,6 +52472,8 @@
 ||c.lalaxqt.cn^
 ||c.lbsbbw.cn^
 ||c.lianwangtech.com^
+||c.linkjingkeji.com^
+||c.lovame.com.cn^
 ||c.lovepets70.com^
 ||c.lrzazjl.cn^
 ||c.lucktui.com^
@@ -52494,6 +52493,7 @@
 ||c.panqishu.com^
 ||c.piliangzhuce.cn^
 ||c.ptffw.net^
+||v.qhruisen.cn^
 ||c.qhruixin.cn^
 ||c.queene.cn^
 ||c.r9uqp.cn^
@@ -52514,6 +52514,7 @@
 ||c.v-meng.org^
 ||c.v4dwkcv.com^
 ||c.vip97.net^
+||c.wangdaguanli.com^
 ||c.wantxt.cc^
 ||c.wechat.jx.cn^
 ||c.wofbw.top^
@@ -52562,6 +52563,7 @@
 ||cdn.0i-i0.com^
 ||cdn.5bong.com^
 ||cdn.810236.com^
+||cdn.9823df.com^
 ||cdn.adstract.com^
 ||cdn.aegins.com^
 ||cdn.hivps.xyz^
@@ -52591,10 +52593,12 @@
 ||cilidaquan.pw^
 ||cip6.czpush.com^
 ||cjiv.chengjie168.com.cn^
+||ck.jssdk.top^
 ||ckjyck.qxs.la^
 ||clc.wanmancn.com^
 ||clk.uunt.com^
 ||cm.he2d.com^
+||cmz2.stm65i8.com^
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||cnm.xlcktv.com^
 ||cnyibs.com^
@@ -52732,6 +52736,7 @@
 ||down.xiazaiyuan.net^
 ||download.350.com^
 ||dq.baomihua.com^
+||dqapp.cdn.bcebos.com^
 ||drdj.m.gxwztv.com^
 ||drsw.m.yuyouge.com^
 ||druic.mytxt.cc^
@@ -53257,6 +53262,7 @@
 ||ee.2v0ni.cn^
 ||ee.32z8d.cn^
 ||ee.45le.cn^
+||ee.45xa.cn^
 ||ee.57m1j.cn^
 ||ee.57m1j.com^
 ||ee.60w3s.cn^
@@ -53278,6 +53284,7 @@
 ||ee.eiiteho.cn^
 ||ee.f2z4d.cn^
 ||ee.gd881.cn^
+||ee.grtnahd.cn^
 ||ee.h2tywo.cn^
 ||ee.hdboping.com^
 ||ee.hx623.cn^
@@ -53298,6 +53305,7 @@
 ||ee.wv26d.cn^
 ||ee.wz382.cn^
 ||ee.x0u4o.cn^
+||ee.xfya3.cn^
 ||ee.xlhm88.cn^
 ||ee.xq375.cn^
 ||ee.xr883.cn^
@@ -53312,6 +53320,7 @@
 ||ehdj.njguluyu.cn^
 ||ekfe.idanmei.cn^
 ||ekfe.tmmjgcp.cn^
+||eladies.zhmyq.cn^
 ||emss.zjhim.com^
 ||engine.tuicoco.com^
 ||eo.6sq7c.xyz^
@@ -53794,6 +53803,7 @@
 ||js883.yongkang6.com^
 ||js9318.bllzgqbyp.com^
 ||jscdn.99pps.com^
+||jscode.jbzj.com^
 ||jsjs.nthyn.com^
 ||jsnywl.kfi8.com^
 ||json.gewuwen.com^
@@ -53873,6 +53883,7 @@
 ||kwflvcdn.000dn.com^
 ||kzni.jwhfn.cn^
 ||l.adiers.com^
+||l.dalemax.cn^
 ||l.ksxcxb.cn^
 ||l.mnjkw.cn^
 ||l.xfmfqdt.cn^
@@ -53910,6 +53921,7 @@
 ||log.orchidscape.net^
 ||lol.pnhfc.com^
 ||loldy.jiangmg.com^
+127.0.0.1 lp7n.cy6px.com
 ||lq0s3c.cn^
 ||lskwsx.m.zwdu.com^
 ||lu.w3vj.cn^
@@ -53985,6 +53997,7 @@
 ||m.41fsxa.cn^
 ||m.43k5d.cn^
 ||m.448u79.cn^
+||m.45xa.cn^
 ||m.45le.cn^
 ||m.479db.cn^
 ||m.4joon8.cn^
@@ -54303,6 +54316,7 @@
 ||m.glvej.com^
 ||m.gnfpzc.cn^
 ||m.gomev.cn^
+||m.grtnahd.cn^
 ||m.gpzndq.cn^
 ||m.gtaih.com^
 ||m.gtiou.com^
@@ -54596,6 +54610,7 @@
 ||m.qlr0d.cn^
 ||m.qneit.com^
 ||m.qu79j.cn^
+||m.quanxs.net^
 ||m.qusub.com^
 ||m.r507p.cn^
 ||m.r528e.cn^
@@ -54779,6 +54794,7 @@
 ||m.xdunv.com^
 ||m.xeig.cn^
 ||m.xeihy.com^
+||m.xfya3.cn^
 ||m.xgaij.com^
 ||m.xhera.cn^
 ||m.xiangchim0.com^
@@ -54988,6 +55004,7 @@
 ||ms.qaqact.cn^
 ||msg.eclicks.cn^
 ||msttz.tst98.com^
+||mt.4go.cc^
 ||mtl.gzhuibei.com^
 ||mtl.ttsqgs.com^
 ||mtl.xtpxw.com^
@@ -55093,11 +55110,13 @@
 ||p.99mssj.com^
 ||p.9wotuan.com^
 ||p.ahzsjzgc.com^
+||p.bangdu2.com^
 ||p.bjdianyue.com^
 ||p.bnuni.com^
 ||p.eaglesh.cn^
 ||p.jclz622983.com^
 ||p.kf3msfm.com^
+||p.lexph.com^
 ||p.m5bn.com^
 ||p.mendoc.cn^
 ||p.niudashu.com^
@@ -55105,6 +55124,8 @@
 ||p.qijijs.top^
 ||p.qfmzys.com^
 ||p.saozhu1.top^
+||p.shengcaidata.com^
+||p.sswyyl.com^
 ||p.tamenshuo.com^
 ||p.vtdtfl.cn^
 ||p.ynjczy.net^
@@ -55116,6 +55137,7 @@
 ||p7.95558000.com^
 ||p8.95558000.com^
 ||package.minghui.org^
+||paflibnq.mamiyue.com.cn^
 ||pad.zhywyl.cn^
 ||page.santc.cn^
 ||parallelsdesktop.cn^
@@ -55717,6 +55739,7 @@
 ||utp.ucweb.com^
 ||uu.85655095.com^
 ||uu.zeverdg.com^
+||uuboos.com^
 ||uun.1uandun.com^
 ||uv.qnmuayx.cn^
 ||uwcu.0b6h.cn^
@@ -55736,6 +55759,7 @@
 ||v.bayongzx.cn^
 ||v.bingxueshenjie.cn^
 ||v.com.5p67n.cn^
+||v.dalemax.cn^
 ||v.dcgwnhk.cn^
 ||v.dengbaozx.cn^
 ||v.dfseafood.com^
@@ -55747,11 +55771,14 @@
 ||v.heygugu.com^
 ||v.iche88.cn^
 ||v.jntxst.cn^
+||v.jumorecn.com.cn^
 ||v.kangai100.cn^
 ||v.koqz36.com^
 ||v.l0yjow.cn^
 ||v.lalaxit.cn^
 ||v.lalaxqt.cn^
+||v.linkjingkeji.com^
+||v.lovame.com.cn^
 ||v.lovepets70.com^
 ||v.lrzazjl.cn^
 ||v.lystrw.cn^
@@ -55768,6 +55795,7 @@
 ||v.szpaopao.com^
 ||v.tgslww.cn^
 ||v.tr31t.cn^
+||v.wangdaguanli.com^
 ||v.xadingli.cn^
 ||v.xbjcgs.cn^
 ||v.xinshide.cn^
@@ -55775,7 +55803,6 @@
 ||v.xrooxeo.cn^
 ||v.yahgxog.cn^
 ||v.zoepb.cn^
-||voq3450129.y4j32.cn^
 ||v1.0594529.com^
 ||v4g.cn^
 ||v7.kawinhome.com^
@@ -55805,6 +55832,7 @@
 ||vip.zhuba8.com^
 ||vipchaoshi.cn^
 ||vipwx.zhong-zhu.com^
+||viq3.fb360xp.com^
 ||vj.tianji520.cn^
 ||vj.x-ssp.com^
 ||vmjjzk.cn^
@@ -55813,6 +55841,7 @@
 ||vnzq.mmpuh.cn^
 ||vol.lflili.com^
 ||vol.txdwc.cn^
+||voq3450129.y4j32.cn^
 ||vp.vw81e.cn^
 ||vpgf.qianyilamian.cn^
 ||vpn.baolq666.com^
@@ -55860,6 +55889,7 @@
 ||wap.txwdn.com^
 ||wap.utmei.cn^
 ||wapssl.ff113300.com^
+||wdfhbx.zdpeanut.com^
 ||webservice.fusionsight.cn^
 ||weizjzg.com^
 ||weld.iefsf.com^
@@ -55943,6 +55973,7 @@
 ||www.abie18.top^
 ||www.abie19.top^
 ||www.abie26.top^
+||www.abovede6.com^
 ||www.afj0.com^
 ||www.ahw3.com^
 ||www.aliyoo999.com^
@@ -55981,6 +56012,7 @@
 ||www.diediao.com^
 ||www.doulaikanapp.com^
 ||www.dqsft.com^
+||www.dulaiduapp.com^
 ||www.duobaoqj.com^
 ||www.eddong.com^
 ||www.ere3j2e001.com^
@@ -56080,6 +56112,7 @@
 ||www.mgldzcls.com^
 ||www.mie99.net^
 ||www.minghui.org^
+||www.mkjshusgus5481.top^
 ||www.mohecm.com^
 ||www.mpzw.com^
 ||www.nangong2.com^
@@ -56381,6 +56414,7 @@
 ||zjj.xhdccz.com^
 ||zjjgtz.com^
 ||zjm.zzmmkj.com^
+||zjyl365.cn^
 ||zlsw.nnjxqd.com^
 ||zly.dlhxgg.com^
 ||zmj.guanqinjie.cn^
@@ -57467,6 +57501,8 @@
 ||tac.aiclk.com^
 ||tracelog-debug.aiclk.com^
 ||upload.aiclk.com^
+||vip.70qn.com^
+||show.suning.beer^
 
 ||PopCash.com^
 ||wpc.32DF9.rhocdn.net^
