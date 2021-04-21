@@ -1,5 +1,7 @@
 [![Cron CI](https://github.com/travisboss/Jefe-Lists/actions/workflows/cron.yml/badge.svg?branch=main)](https://github.com/travisboss/Jefe-Lists/actions/workflows/cron.yml)
 
+_This list is updated nightly._
+
 Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD](https://oisd.nl/), [Wally3K](https://firebog.net/), [NextDNS](https://github.com/nextdns), [Energized](https://github.com/EnergizedProtection/unblock) and [oneoffdallas](https://github.com/oneoffdallas/dohservers) for creating these lists, without them I would not be writing these words.
 
 <hr />
@@ -16,7 +18,5 @@ All I am trying to do is compile some adblock syntax only lists with Adguards Ho
 4. nextdns_blocklist.txt - I have added what NextDNS uses for there default recommended list and checked against Energized Unblock and remove comments, you can find the lists here https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 
 If you are unsure what list to use I generally recommend `oisd_blocklist.txt`, but feel free to try the others and see how they work for you. If you find an issue please submit a bug and PR's are welcome! I am looking for help to maybe streamline my github action.
-
-_This list is updated nightly._
 
 I have changed the name of the ticked list to wally3k_blocklist.txt and for now I have removed the non-ticked list, there are too many issues with the lists themselves and the build time is just too long and unreliable.
