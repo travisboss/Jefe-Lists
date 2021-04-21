@@ -37,7 +37,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git pull
           git add -A
-          git commit -m "Make changes to allowlist.txt and blocklist.txt"
+          git commit -m "Make changes to allowlist and blocklists"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
