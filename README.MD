@@ -8,7 +8,7 @@ Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD]
 
 **The rest of this readme is a WIP for now.**
 
-**Can use with adguard, adguard home, ublock, adblock, adblockplus, opera and adnuseaum**
+**Can use with adguard, adguard home, ublock, adblock, adblockplus, opera, adnuseaum and any service that accepts adblock styntax**
 
 All I am trying to do is compile some adblock syntax only lists with Adguards Hostlist Compiler and what you see here is:
 
