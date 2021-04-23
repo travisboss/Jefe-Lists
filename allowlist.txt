@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2021-04-22T07:25:19.269Z
+! Last modified: 2021-04-23T07:25:20.660Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8759,6 +8759,7 @@
 @@||update.micloud.xiaomi.net^
 @@||update.microsoft.com^
 @@||update.miui.com^
+@@||update.pan.baidu.com^
 @@||update.sonymobile.com^
 @@||update.unisdk.easebar.com^
 @@||update.viber.com^
