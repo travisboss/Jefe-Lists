@@ -21,16 +21,17 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
-      - uses: borales/actions-yarn@v2.0.0
-        with:
-          cmd: install # will run `yarn install` command
+      - uses: actions/setup-node@v2
+      with:
+       node-version: '14'
+      - run: npm ci
 
       - name: Create local changes
         run: |
-          yarn hostlist-compiler -c allow_configuration.json -o allowlist.txt
-          yarn hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
-          yarn hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
-          yarn hostlist-compiler -c wally3k_blocklist_configuration.json -o wally3k_blocklist.txt
+          npm hostlist-compiler -c allow_configuration.json -o allowlist.txt
+          npm hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
+          npm hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
+          npm hostlist-compiler -c wally3k_blocklist_configuration.json -o wally3k_blocklist.txt
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
