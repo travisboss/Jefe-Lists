@@ -28,10 +28,10 @@ jobs:
 
       - name: Create local changes
         run: |
-          npm hostlist-compiler -c allow_configuration.json -o allowlist.txt
-          npm hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
-          npm hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
-          npm hostlist-compiler -c wally3k_blocklist_configuration.json -o wally3k_blocklist.txt
+          npx hostlist-compiler -c allow_configuration.json -o allowlist.txt
+          npx hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
+          npx hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
+          npx hostlist-compiler -c wally3k_blocklist_configuration.json -o wally3k_blocklist.txt
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
