@@ -2,7 +2,7 @@
   "name": "Jefe Blocklist Pegasus",
   "sources": [
     {
-      "source": "https://raw.githubusercontent.com/voidspacexyz/amnesty_nso_domain_list/main/amensty_nso_domain_list.txt",
+      "source": "https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt",
       "type": "hosts"
     }
   ],
