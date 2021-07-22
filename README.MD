@@ -2,6 +2,8 @@
 
 _This list is updated nightly._
 
+<a href="https://www.buymeacoffee.com/jefeList" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD](https://oisd.nl/), [Wally3K](https://firebog.net/), [NextDNS](https://github.com/nextdns), [Energized](https://github.com/EnergizedProtection/unblock) and [oneoffdallas](https://github.com/oneoffdallas/dohservers) for creating these lists, without them I would not be writing these words.
 
 <hr />
