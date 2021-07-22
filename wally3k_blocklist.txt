@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist Ticked
-! Last modified: 2021-07-22T21:52:43.994Z
+! Last modified: 2021-07-22T21:58:47.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -153289,7 +153289,6 @@ mosumumopo
 ||028huoyuan.com^
 ||1008691.com^
 ||123muanhanh.net^
-||2.indexsinas.me^
 ||2nf.me^
 ||32792.prolocksmithwinterpark.com^
 ||360.lcy2zzx.pw^
@@ -153659,7 +153658,6 @@ mosumumopo
 ||fixauto.illumetechnology.com^
 ||fkd.derpcity.ru^
 ||flexypay.dsquaregroup.com^
-||flockinglegless.com^
 ||flyingbuddhadesign.com^
 ||fordlongbien5s.vn^
 ||forum.mdb.nu^
@@ -153802,7 +153800,6 @@ mosumumopo
 ||jjcart.net^
 ||jnanbharati.com^
 ||jochiexpress.com^
-||joelbonissilver.com^
 ||jomtenet.com^
 ||jonesexteriors.com^
 ||jpcleaningservices2.davaohorizon.com^
@@ -153877,7 +153874,6 @@ mosumumopo
 ||lp.difusodesign.com^
 ||lpg.progaticreative.com^
 ||ls-droid.com^
-||ltc.typoten.com^
 ||luminouspneuma.com^
 ||lupasgroup.com^
 ||m-technics.kz^
@@ -153887,7 +153883,6 @@ mosumumopo
 ||mail1.hacachurch.org^
 ||mailer.srkcommunication.biz^
 ||maintenancejpb.com^
-||maioakinspires.com^
 ||makeownpharma.com^
 ||managemysalon.in^
 ||manantialesdelnorte.uy^
@@ -153972,7 +153967,6 @@ mosumumopo
 ||nellaimasthanbiryani.com^
 ||neon-me.com^
 ||nettube.com.br^
-||networkwheels.co.za^
 ||newtreedesign.co.uk^
 ||nextdigitalday.ru^
 ||ngdaycare.co.za^
@@ -154098,6 +154092,7 @@ mosumumopo
 ||reime.dk^
 ||renegocia.pe^
 ||renehavis.com.ua^
+||res.uf1.cn^
 ||reseller.digimitra.in^
 ||reseller.itechbrasil.com^
 ||restaurantechezdaniel.com^
@@ -154200,7 +154195,6 @@ mosumumopo
 ||st.devcodin.com^
 ||staging.advails.com^
 ||static.cz01.cn^
-||stiau.iuc.ac^
 ||sticker.jewsjuice.com^
 ||stiepancasetia.ac.id^
 ||store.selectandwin.com^
@@ -154239,7 +154233,6 @@ mosumumopo
 ||test.cliniconnect.com.au^
 ||test.letraele.es^
 ||test.protocsconnectes.eu^
-||test.typoten.com^
 ||test1.milenial.id^
 ||test2.marrenconstruction.ie^
 ||testing-istudiophoto.davaohorizon.com^
