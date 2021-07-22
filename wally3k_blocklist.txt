@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist Ticked
-! Last modified: 2021-07-22T21:25:10.933Z
+! Last modified: 2021-07-22T21:38:26.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -153370,7 +153370,6 @@ mosumumopo
 ||atozlovebook.com^
 ||atteuqpotentialunlimited.com^
 ||augustair.com^
-||aulist.com^
 ||autofficinaguerreri.it^
 ||avadhanagames.com^
 ||avisitorfromanotherworldy.xyz^
@@ -153410,7 +153409,6 @@ mosumumopo
 ||bflytechnologies.com^
 ||bharattimeslive.com^
 ||biankadesmarais.com^
-||bigmikesupplies.co.za^
 ||bigpms.in^
 ||bijoybangla.news^
 ||bikemandu.com^
@@ -153437,6 +153435,7 @@ mosumumopo
 ||bounces.mi-fs.com^
 ||braco.com.co^
 ||brandtrust.com.pk^
+||breakingbread.modelacademy.co.in^
 ||brickwholesaler.com^
 ||brideofmessiah.com^
 ||bridgeroad.maverickpreviews.com^
@@ -153486,7 +153485,7 @@ mosumumopo
 ||cleanevolution.com.br^
 ||clients-conceptsk.com^
 ||cm-arquitetos.com^
-||codehotelandsuites.com^
+||codingmonster.me^
 ||colinde.pricesne.com^
 ||community.gen.in^
 ||community.reimclub.com^
@@ -153518,7 +153517,6 @@ mosumumopo
 ||crustinthekitchen.com^
 ||csnserver.com^
 ||ct.mba^
-||ctracknxt.in^
 ||cubescargoexpress.com^
 ||cukhing.com^
 ||currantmedia.com^
@@ -153549,7 +153547,6 @@ mosumumopo
 ||designerliving.co.za^
 ||desk.hasu.com.ar^
 ||despertaresi.com.br^
-||destinymc.co.za^
 ||detorre.es^
 ||dev.arabfeedmill.com^
 ||dev.favterest.com^
@@ -153639,7 +153636,6 @@ mosumumopo
 ||extensivevinylservices.com^
 ||eyepod.org^
 ||ezps.co.uk^
-||f1sol.com^
 ||fabienpique.com^
 ||facebook.commit.capitaluniversity.net^
 ||fam144.com^
@@ -153702,6 +153698,7 @@ mosumumopo
 ||gobec.pro^
 ||goldcake.co.id^
 ||goldenasiacapital.com^
+||goldenmilesbd.com^
 ||goodsproutarchitects.com^
 ||gpotecnosystems.com^
 ||greenpayindia.com^
@@ -153821,6 +153818,7 @@ mosumumopo
 ||keepplayn.com^
 ||keeshu.co^
 ||kensingtondriving.com^
+||ketofitnessexpert.com^
 ||kf.carthage2s.com^
 ||kgswitchgear.com^
 ||kiddercreekdesigns.com^
@@ -154025,7 +154023,6 @@ mosumumopo
 ||orion445.com^
 ||orsan.gruporhynous.com^
 ||ozemag.com^
-||p2.d9media.cn^
 ||p3.zbjimg.com^
 ||p6.zbjimg.com^
 ||pablobrothel.com.ar^
@@ -154058,6 +154055,7 @@ mosumumopo
 ||pinizrihenltd.com^
 ||pink99.com^
 ||plasfan.ind.br^
+||platinumxtrade.com^
 ||player.ebmstreaming.eu^
 ||pmglance.startwriteup.com^
 ||pole.com.vc^
@@ -154145,7 +154143,6 @@ mosumumopo
 ||sculetus.nl^
 ||secure-doc-reader.com^
 ||selvanelectricals.com^
-||senbiaojita.com^
 ||sendizarlogistics.com^
 ||sericaasia.com^
 ||service.easytrace.mn^
@@ -154154,6 +154151,7 @@ mosumumopo
 ||sexologistpakistan.net^
 ||sgessy.com.br^
 ||sgwcustomprints.com^
+||shaheentbfoundation.com^
 ||shahikhana.cstdevs.com^
 ||shahrakyar.com^
 ||shahu66.com^
@@ -154184,7 +154182,6 @@ mosumumopo
 ||sitinurulalifah.xyz^
 ||sman1paguyaman.sch.id^
 ||smarthouseforum.ru^
-||smartloan.lk^
 ||smokeandgrowrichtour.com^
 ||smritiphotography.in^
 ||soft.110route.com^
@@ -154298,7 +154295,6 @@ mosumumopo
 ||ultimate-24.de^
 ||unicorpbrunei.com^
 ||uniengrisb.com^
-||unisoftcc.com^
 ||univ.srt-lb.com^
 ||up.llw0.com^
 ||upcbpta.com^
@@ -154331,11 +154327,9 @@ mosumumopo
 ||vote.yixuecup.com^
 ||votobicentenario.com^
 ||vpinversiones.cl^
-||vpts.co.za^
 ||vulkanvegas-de.katchpurcity.com^
 ||vulkanvegasbonus.ucargiyim.com^
 ||vulkanvegasonline.katchpurcity.com^
-||w.xnlyr.cn^
 ||walletwasabi.io^
 ||watertankcleaner.com^
 ||wdfacustomtees.com^
@@ -154375,7 +154369,6 @@ mosumumopo
 ||www.bestfirecrackers.in^
 ||www.bowmancollection.com^
 ||www.cellas.sk^
-||www.chipmania.it^
 ||www.chocopico.com^
 ||www.classicbuilthomes.info^
 ||www.cryptovault.cash^
@@ -154401,11 +154394,11 @@ mosumumopo
 ||www.minuevavida.org^
 ||www.modernajandek.hu^
 ||www.moninediy.com^
+||www.mozcn.com^
 ||www.muradvietnam.vn^
 ||www.mutebimetalworks.com^
 ||www.notamuzikaletleri.com^
 ||www.opolis.io^
-||www.oserve.pk^
 ||www.quartier-midi.be^
 ||www.quhedong.com^
 ||www.radheyenterprise.com^
@@ -154454,3 +154447,4 @@ mosumumopo
 ||zhengtiankai.com^
 ||zina-boutique.com^
 ||zoqzoq.com^
+||zz.690tx.com^
