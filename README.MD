@@ -4,7 +4,7 @@
 
 _This list is updated nightly._
 
-Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD](https://oisd.nl/), [Wally3K](https://firebog.net/), [NextDNS](https://github.com/nextdns), [Anudeep](https://github.com/anudeepND/whitelist/blob/master/domains/whitelist.txt), [AmnestyTech](https://github.com/AmnestyTech/investigations) and [oneoffdallas](https://github.com/oneoffdallas/dohservers) for creating these lists, without them I would not be writing these words.
+Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD](https://oisd.nl/), [Wally3K](https://firebog.net/), [NextDNS](https://github.com/nextdns), [Anudeep](https://github.com/anudeepND/whitelist), [AmnestyTech](https://github.com/AmnestyTech/investigations) and [oneoffdallas](https://github.com/oneoffdallas/dohservers) for creating these lists, without them I would not be writing these words.
 
 <hr />
 
