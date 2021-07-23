@@ -8,7 +8,7 @@ Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD]
 
 <hr />
 
-###Moved from energized unblock to anudeep whitelist, if find issues please raise an issue.
+### Moved from energized unblock to anudeep whitelist, if find issues please raise an issue.
 
 **Can use with adguard, adguard home, ublock, adblock, adblockplus, opera, adnuseaum and any service that accepts adblock styntax**
 
