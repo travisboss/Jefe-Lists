@@ -12,6 +12,5 @@
     "RemoveModifiers",
     "RemoveComments",
     "Validate"
-  ],
-  "exclusions_sources": ["allowlist.txt"]
+  ]
 }
