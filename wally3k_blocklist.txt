@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist Ticked
-! Last modified: 2021-07-23T20:49:24.764Z
+! Last modified: 2021-07-23T20:53:13.332Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -153748,7 +153748,6 @@ mosumumopo
 ||expeditecourierservices.com^
 ||expresolv.com^
 ||ezps.co.uk^
-||f1sol.com^
 ||fabienpique.com^
 ||facebook.commit.capitaluniversity.net^
 ||fam144.com^
@@ -154242,6 +154241,7 @@ mosumumopo
 ||safcol-colors.com^
 ||safehubsecurity.ca^
 ||safety.nanotechproautocare.com^
+||sainzim.co.za^
 ||salemazonjp.com^
 ||saloansolutions.com.au^
 ||samaraneftservisllc.com^
@@ -154314,6 +154314,7 @@ mosumumopo
 ||st.devcodin.com^
 ||staging.advails.com^
 ||static.cz01.cn^
+||stiau.iuc.ac^
 ||sticker.jewsjuice.com^
 ||stiepancasetia.ac.id^
 ||stitch-d.com^
