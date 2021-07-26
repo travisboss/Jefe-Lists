@@ -24,15 +24,16 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: "14"
+      - run: npm i -g @adguard/hostlist-compiler
       - run: npm ci
 
       - name: Create local changes
         run: |
-          npx hostlist-compiler -c allow_configuration.json -o allowlist.txt
-          npx hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
-          npx hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
-          npx hostlist-compiler -c wally3k_configuration.json -o wally3k_blocklist.txt
-          npx hostlist-compiler -c pegasus_configuration.json -o pegasus_blocklist.txt
+          hostlist-compiler -c allow_configuration.json -o allowlist.txt
+          hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
+          hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
+          hostlist-compiler -c wally3k_configuration.json -o wally3k_blocklist.txt
+          hostlist-compiler -c pegasus_configuration.json -o pegasus_blocklist.txt
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
