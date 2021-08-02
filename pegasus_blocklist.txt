@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist Pegasus
-! Last modified: 2021-08-01T07:06:46.218Z
+! Last modified: 2021-08-02T07:06:20.701Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
