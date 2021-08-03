@@ -10,6 +10,8 @@ Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD]
 
 ### Moved from energized unblock to anudeep whitelist, if find issues please raise a bug.
 
+### Removed Pegasus list see [here](https://github.com/AmnestyTech/investigations/issues/4#issuecomment-888181343)
+
 **Can use with adguard, adguard home, ublock, adblock, adblockplus, opera, adnuseaum and any service that accepts adblock styntax**
 
 All I am trying to do is compile some adblock syntax only lists with Adguards Hostlist Compiler and what you see here is:

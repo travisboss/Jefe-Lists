@@ -33,7 +33,6 @@ jobs:
           hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
           hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
           hostlist-compiler -c wally3k_configuration.json -o wally3k_blocklist.txt
-          hostlist-compiler -c pegasus_configuration.json -o pegasus_blocklist.txt
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
