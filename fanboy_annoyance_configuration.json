@@ -3,7 +3,7 @@
     "sources": [
       {
         "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_block.txt",
-        "type": "host"
+        "type": "hosts"
       }
     ],
     "transformations": [
