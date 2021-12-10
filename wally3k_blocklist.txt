@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist Ticked
-! Last modified: 2021-12-10T13:21:27.657Z
+! Last modified: 2021-12-10T13:58:48.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -160503,19 +160503,20 @@ mosumumopo
 ||2.indexsinas.me^
 ||225km.com^
 ||360.lcy2zzx.pw^
+||360down7.miiyun.cn^
 ||360sma.com^
 ||3littlestarslandscapes.com^
 ||5buckshop.ml^
 ||5bwo.komawai.ru^
 ||77st.net^
 ||808desk.com^
+||8402d53c-17e9-4250-8011-20f28f5d404f.certbooster.com^
 ||97nation.com^
 ||9cc0.ilrkr.ru^
 ||a.komawai.ru^
 ||a3ium.davaohorizon.com^
 ||aaandtconsult.com^
 ||aamalaya.com^
-||aarsaindustries.com^
 ||aayushivfraipur.com^
 ||abissnet.net^
 ||abmaxdigital.com^
@@ -160559,6 +160560,8 @@ mosumumopo
 ||ammico.com^
 ||amooma.sourcetaggers.com^
 ||amyconcepts.com^
+||andreaskisauer.com^
+||andres.ug^
 ||anexo.app.yeshua.com.br^
 ||anicert.cn^
 ||animalcare.ga^
@@ -160581,6 +160584,7 @@ mosumumopo
 ||archideas.cl^
 ||ardmtshidayatulfirdaus.inas.web.id^
 ||areyoulivingwell.com^
+||arguiushfguspgp.from-va.com^
 ||arrangerz.in^
 ||arrkcelebrations.com^
 ||arshadbrother.com^
@@ -160592,6 +160596,7 @@ mosumumopo
 ||asd.edu.au^
 ||ashutoshgauttam.com^
 ||ashwagandha.co.in^
+||ask-regard.call-save.biz^
 ||assentstore.com^
 ||assets.dsztfso.cn^
 ||asu.com.vn^
@@ -160603,6 +160608,7 @@ mosumumopo
 ||autofficinaguerreri.it^
 ||autostock.swadeshishop.com^
 ||avadhanagames.com^
+||avpra.com^
 ||azerbaijan-tourism.com^
 ||azmeasurement.com^
 ||b2bphonebook.com^
@@ -160613,13 +160619,13 @@ mosumumopo
 ||baldcover.com^
 ||ballatstone.com^
 ||bangkok-orchids.com^
-||barkodsolutions.com^
 ||basmanatrans.com^
 ||bbia.co.uk^
 ||bearcatpumps.com.cn^
 ||beautimira.com^
 ||bec.demo.myitas.net^
 ||bedroomhome.xyz^
+||bedroomnow.xyz^
 ||beem.id^
 ||behsaude.com^
 ||benwellgroup.co.uk^
@@ -160660,12 +160666,14 @@ mosumumopo
 ||brickwholesaler.com^
 ||brideofmessiah.com^
 ||bridgesfoundationrepair.com^
+||brightmega.com^
 ||brightstarshop.com^
 ||brindesdesipat.com.br^
 ||buigiaphat.com.vn^
 ||bujogradba.com^
 ||bullseyemedia.in^
 ||bunge.skybitvest.com^
+||buscascolegios.diit.cl^
 ||buysrilankan.lk^
 ||c.kamisime.ru^
 ||c.oooooooooo.ga^
@@ -160675,6 +160683,7 @@ mosumumopo
 ||camminachetipassa.it^
 ||captainrobbo.com^
 ||caragudigital.com.mx^
+||careergg.virvazir.com^
 ||careeroccupant.xyz^
 ||cariustadz.org^
 ||carthunt.in^
@@ -160682,7 +160691,6 @@ mosumumopo
 ||cdaonline.com.ar^
 ||cdim9.com^
 ||cdn.riowt.top^
-||cdn.tmooc.cn^
 ||certification.jacsai.org^
 ||cgp3solutions.co.za^
 ||ch1.spacermodem.com^
@@ -160703,6 +160711,7 @@ mosumumopo
 ||citiqproperties.co.za^
 ||client.meetsusolutions.com^
 ||cloutingservicedb.su^
+||cm-arquitetos.com^
 ||cobhamplasteringservices.co.uk^
 ||cocojojo-pet.com^
 ||coheneu.de^
@@ -160720,6 +160729,7 @@ mosumumopo
 ||cookery.irooniafile.ir^
 ||copelandscapes.com^
 ||cosmedhealthcare.com^
+||count.mail.163.com.impactmedfoundation.com^
 ||courses.sibmbpreinduction.com^
 ||courtneyjones.ac.ug^
 ||covid19.cyberschool.or.id^
@@ -160750,6 +160760,7 @@ mosumumopo
 ||d.gogamed.com^
 ||d.komawai.ru^
 ||d.powerofwish.com^
+||d9.99ddd.com^
 ||da.alibuf.com^
 ||daga999.com^
 ||dainesearredamenti.it^
@@ -160757,6 +160768,7 @@ mosumumopo
 ||danaevara.com^
 ||dashb.mcqsmentor.com^
 ||dashboard.khholdings.co.za^
+||data.cdevelop.org^
 ||data.green-iraq.com^
 ||datainsightmag.com^
 ||dato.social^
@@ -160780,9 +160792,11 @@ mosumumopo
 ||desbloqueia.com^
 ||designandtechnologyskills.com^
 ||designerliving.co.za^
+||destinymc.co.za^
 ||dev.crystalclearvapestore.co.uk^
 ||dev.sebpo.net^
 ||developer.wiredcampus.in^
+||development.goipcloud.co.ke^
 ||dezcom.com^
 ||dharlafashionsltd.com^
 ||dhtsw.dhtinc.in^
@@ -160810,7 +160824,6 @@ mosumumopo
 ||down.rxgif.cn^
 ||down.webbora.com^
 ||down.yjhyjl.cn^
-||download.5866.com^
 ||download.doumaibiji.cn^
 ||download.pdf00.cn^
 ||download2.info^
@@ -160859,15 +160872,19 @@ mosumumopo
 ||elinerenata.com^
 ||eliteskullsmilsimcwb.com.br^
 ||ema.cabinetkbg.com^
+||emaids.co.za^
 ||emegablog.com^
 ||emia.nu^
 ||en.baoend.com^
 ||en.dsdkochoracin.com.mk^
 ||endoinstruments.co.uk^
+||ergotherapeia-kalamata.gr^
 ||eslomingenieria.com.ar^
 ||esportesht.com.br^
+||estiloymadera.com.py^
 ||estudiogflz.com.ar^
 ||eusouchio.com.br^
+||excavatorgroup.com^
 ||exilum.com^
 ||expansion360.net^
 ||f.gogamef.com^
@@ -160891,6 +160908,7 @@ mosumumopo
 ||fizik.tv.tr^
 ||flyingbuddhadesign.com^
 ||fooduto.com^
+||forummediallc.com^
 ||foto.kathybossa.com^
 ||fotoobjetivo.com^
 ||foundationrepairhoustontx.net^
@@ -160906,6 +160924,7 @@ mosumumopo
 ||funletters.net^
 ||furyx.de^
 ||futbolpr.com^
+||g.nxxxn.ga^
 ||gaidov.bg^
 ||gan-n.cloud-downloader.com^
 ||gasmin.com^
@@ -160920,6 +160939,7 @@ mosumumopo
 ||gfmodd1.webselffiles01.com^
 ||ghaziabadplots.in^
 ||giadinhviet.com^
+||gmvadmission.org^
 ||goalsuccesstips.com^
 ||gocnhotaichinh.com^
 ||godubai.club^
@@ -160941,10 +160961,13 @@ mosumumopo
 ||grocerytogo.xyz^
 ||growthdevelopment.xyz^
 ||gruzof.by^
+||gs.monerorx.com^
 ||gsmcommerce.net^
 ||gt-max.com.my^
 ||guialuze.com^
+||guillermomanrique.com.mx^
 ||gulfstreamchem.com^
+||gwcrresearch.org^
 ||gym.quicksoft.in^
 ||hadrielphotography.com^
 ||hagebakken.no^
@@ -160959,6 +160982,7 @@ mosumumopo
 ||hellogorgeous.com.au^
 ||herchinfitout.com.sg^
 ||hhaward.org^
+||higservpe.com.br^
 ||himganic.com^
 ||hireout.today^
 ||historyshop.xyz^
@@ -160987,6 +161011,7 @@ mosumumopo
 ||humanresourceslifeline.com^
 ||hunggiang.vn^
 ||iamjitenpatel.com^
+||ibooking.campaignhub.net^
 ||icedecastella.com.br^
 ||icgsame.cf^
 ||idilsoft.com^
@@ -161015,6 +161040,7 @@ mosumumopo
 ||insightcameraclub.com^
 ||insumo.vn^
 ||insurance.showcase-dengage.online^
+||integratedsystems.com.ng^
 ||interviewsetup.com^
 ||inventiontimestamp.com^
 ||inventory.sourcetaggers.com^
@@ -161024,7 +161050,6 @@ mosumumopo
 ||ipokerist.site^
 ||iptel.cy^
 ||isaac.co.mz^
-||isaac.mikhailmotoringschool.com^
 ||israfont.co.il^
 ||istanbulcilingircim.com^
 ||iswaryaites.com^
@@ -161034,7 +161059,9 @@ mosumumopo
 ||iyyappahospitals.com^
 ||jainsonsfoods.com^
 ||jamshed.pk^
+||jardinaix.fr^
 ||java.waterflowergarden.com^
+||jay.diamondrelationscrm.us^
 ||jb-club.com^
 ||jcedu.org^
 ||jcloud.my^
@@ -161070,6 +161097,7 @@ mosumumopo
 ||kaptured.io^
 ||karantinatahfizh.com^
 ||karer.by^
+||kartgenie.in^
 ||kayodeoguta.com^
 ||kc.dett.cn^
 ||kensingtondriving.com^
@@ -161083,7 +161111,9 @@ mosumumopo
 ||klija.net^
 ||klom.mcqsmentor.com^
 ||knopsguide.xyz^
+||kodekode.ac.ug^
 ||korrectconceptservices.com^
+||kotob.top^
 ||kp72samaj.com^
 ||krainikovvlad.eternalhost.info^
 ||krisbadminton.com^
@@ -161104,6 +161134,7 @@ mosumumopo
 ||lceventos.net^
 ||ldgcorp.com^
 ||learnfastearn.com^
+||leasiacherise.com^
 ||lefilsdepub.com^
 ||legend.nu^
 ||lemondedulivre.com^
@@ -161112,6 +161143,7 @@ mosumumopo
 ||library.arihantmbainstitute.ac.in^
 ||lidamtour.com^
 ||lindnerelektroanlagen.de^
+||linea169.com.ar^
 ||linkintec.cn^
 ||liquidallure.shop^
 ||litespeak.pl^
@@ -161127,6 +161159,7 @@ mosumumopo
 ||lokmanbd.com^
 ||longcheckdo.com^
 ||loydsspice.co.uk^
+||ls-droid.com^
 ||ltc.typoten.com^
 ||luminouspneuma.com^
 ||luoicauthang.com^
@@ -161161,6 +161194,7 @@ mosumumopo
 ||marcyovcx.ru^
 ||marialservice.com^
 ||mario-sunjic.com^
+||mariobrown.net^
 ||marksidfgs.ug^
 ||marmariscastajanslari.bykmedya.com^
 ||marquesvogt.com^
@@ -161170,6 +161204,8 @@ mosumumopo
 ||matong47.com^
 ||mbelectrical.co.za^
 ||mbgrm.com^
+||mechanoesis.gr^
+||mechring.analogcloudtech.com^
 ||media-server.skyinternet.com.pk^
 ||medianews.ge^
 ||meenahealthcare.com^
@@ -161180,6 +161216,7 @@ mosumumopo
 ||melhoraragora.com^
 ||merchantbli.myitas.net^
 ||metro.fingerbus.cn^
+||meuoculosnanet.com.br^
 ||mewb.org^
 ||mex035.com^
 ||mibilizi.rw^
@@ -161187,6 +161224,7 @@ mosumumopo
 ||microcomm-group.com^
 ||microhub.analogcloudtech.com^
 ||microtel.se^
+||mikhailmotoringschool.com^
 ||mindfulnesseating.com^
 ||minstruire.fr^
 ||miplataformaeducativa.com^
@@ -161212,27 +161250,29 @@ mosumumopo
 ||mudahnyahamil.com^
 ||multiairsrl.com.ar^
 ||multilevelcarparkingindia.com^
+||mumgee.co.za^
 ||musetype.com^
+||muzimbiti.xigubo.co.mz^
 ||mvdlimos.com^
 ||mwu.com.mx^
 ||mxadmin.wiredcampus.in^
+||myfreekart.com^
 ||mymlql.com^
 ||mysura.it^
 ||mytrains.tk^
 ||naeemacademy.com^
 ||nafasfitness.com^
 ||najadriver.najasoftware.com.br^
-||nasapaul.com^
 ||nattawut-gamefowl.com^
 ||nav.wiredcampus.in^
 ||navratangemlab.com^
 ||ncrplacement.com^
 ||necocheasexshop.com^
 ||neginraeisi.ir^
-||neodigital.se^
 ||neofunkyjunky.com^
 ||neoxora.lk^
 ||nettube.com.br^
+||networkwheels.co.za^
 ||nevermiss.su^
 ||newdevjyq.devjyq.com^
 ||newvisionopticallab.com^
@@ -161254,7 +161294,6 @@ mosumumopo
 ||nouveau.kamanews.net^
 ||ns1.the-widyantos.com^
 ||nsb.org.uk^
-||oceancitymdforsalebyowner.com^
 ||oceancityrentalbyowner.com^
 ||oceanstall.com^
 ||ocmdbeachrentals.com^
@@ -161264,13 +161303,13 @@ mosumumopo
 ||oficiox.com^
 ||ohereza.rw^
 ||ohsewgorgeous.co.uk^
-||oknoplastik.sk^
 ||old.cybers.com.ua^
 ||old.liceum9.ru^
 ||oleholeh.memangbeda.website^
 ||oliverrubber.in^
 ||ombrapiatta.com^
 ||oms.pappai.com^
+||omscoc.pappai.com^
 ||ongthanhnam.com^
 ||oniondq7shlx5o67t64ljuzisyp34s3n7vepnhc5ijt5hjh107.com^
 ||online.creedglobal.in^
@@ -161282,6 +161321,7 @@ mosumumopo
 ||order.redroseofbristol.com^
 ||ordereasy.hk^
 ||ordersofmagnetude.com^
+||orientgatewayltd.com^
 ||orsan.gruporhynous.com^
 ||oshosanzen.in^
 ||outdoortacklebox.com^
@@ -161289,6 +161329,7 @@ mosumumopo
 ||oyeeeautos.com^
 ||ozadowear.com^
 ||ozemag.com^
+||p-sea.com^
 ||p2.d9media.cn^
 ||p3.zbjimg.com^
 ||p6.zbjimg.com^
@@ -161313,6 +161354,7 @@ mosumumopo
 ||paulmercier.biz^
 ||pay.ewalletgold.com^
 ||payerrealty.com^
+||payments.atifsiddiqui.me^
 ||pedicollections.com^
 ||petknorra.com^
 ||peulnm16.top^
@@ -161346,6 +161388,7 @@ mosumumopo
 ||privacy-tools-for-you-777.com^
 ||prochemindia.com^
 ||projeniolustur.com^
+||promas.com^
 ||promo.cervicalix.net^
 ||promo.jenevi.store^
 ||promoversdubai.com^
@@ -161358,6 +161401,7 @@ mosumumopo
 ||punjabdevelopersassociation.com.pk^
 ||puntamimarlik.com.tr^
 ||pvcprinting.co.uk^
+||pzainteriors.com^
 ||qrmenu.ionoxwebstudio.com^
 ||qsport.precogtech.com^
 ||quickbooks.thormobilemanagement.com^
@@ -161365,6 +161409,7 @@ mosumumopo
 ||qwc.com.br^
 ||racons.in^
 ||radionetprovedor.com.br^
+||rahigo.com^
 ||rainbowisp.info^
 ||rakeshkhatri.in^
 ||ramseywetruss.com^
@@ -161382,6 +161427,7 @@ mosumumopo
 ||registroenlinea.mx^
 ||reifenquick.de^
 ||reju888.com^
+||relaxindulge.co.nz^
 ||renatalaranjo.com^
 ||renehavis.com.ua^
 ||renentlimited.com^
@@ -161392,6 +161438,7 @@ mosumumopo
 ||retailexpertscloud.com^
 ||retailjar.com^
 ||retracker.host^
+||returndaily.com^
 ||ricambi.fixtofix.it^
 ||rinaefoundation.org.za^
 ||rinkaisystem-ht.com^
@@ -161437,11 +161484,13 @@ mosumumopo
 ||senbiaojita.com^
 ||sencalli.com^
 ||seniorweekoc.net^
+||sericaasia.com^
 ||server.easysalepage.in.th^
 ||server.toeicswt.co.kr^
 ||service.easytrace.mn^
 ||serviciovirtual.com.ar^
 ||servidor.indommus.com^
+||servitecempilhadeira.com.br^
 ||sexologistpakistan.net^
 ||sgessy.com.br^
 ||shadesnshadows.com.np^
@@ -161449,7 +161498,6 @@ mosumumopo
 ||shaguun.com^
 ||shaheentbfoundation.com^
 ||shahikhana.cstdevs.com^
-||shahu66.com^
 ||sheshkantfoundation.org^
 ||shikshapay.in^
 ||shop.mediasova.ru^
@@ -161472,18 +161520,22 @@ mosumumopo
 ||sman2xiiikk.sch.id^
 ||smartcontracts.co.za^
 ||smarthouseforum.ru^
+||smpn1tolitoli.sch.id^
 ||smruthishettigar.com^
 ||snkre.com^
 ||sodovip88.com^
 ||soft.110route.com^
+||solarforafrica.net^
 ||solveit.ie^
+||source3.boys4dayz.com^
 ||sovip86.com^
 ||spa.grupokayros.org^
-||spanish.icc.holdings^
+||spaceframe.mobi.space-frame.co.za^
 ||sparcalabar.lightzillion.com^
 ||spent.com.pl^
 ||spetsesyachtcharter.gr^
 ||spf.org.rs^
+||spiceoils.a1oilindia.in^
 ||spices.com.sg^
 ||spitiwanderer.com^
 ||src1.minibai.com^
@@ -161506,6 +161558,7 @@ mosumumopo
 ||stroysudexpertiza.ru^
 ||studiomam.se^
 ||styledbylinda.com.au^
+||submissions.tentcityrecords.net^
 ||sunlifeglobal.com^
 ||sunuhabitat.com^
 ||sunukoomthies.com^
@@ -161518,6 +161571,7 @@ mosumumopo
 ||suryatp.com^
 ||suwayd.com^
 ||suyashhospitalraipur.com^
+||swift-order.com^
 ||swim.romangrey.net^
 ||swwbia.com^
 ||t.honker.info^
@@ -161527,7 +161581,6 @@ mosumumopo
 ||tanlayseong.com^
 ||tarravalleyfoods.com.au^
 ||taxclubpk.com^
-||tc.snpsresidential.com^
 ||teamproject.link^
 ||techgms.com^
 ||techybhai.online^
@@ -161545,6 +161598,7 @@ mosumumopo
 ||test2.marrenconstruction.ie^
 ||testing-istudiophoto.davaohorizon.com^
 ||thaayagam.com^
+||tharringtonsponsorship.com^
 ||theappliancesindia.com^
 ||thebox.sd^
 ||thecircumcisioncentre.com^
@@ -161585,6 +161639,7 @@ mosumumopo
 ||traveladmin.sourcetaggers.com^
 ||travels.cdtscorp.com^
 ||travelwithmanta.co.za^
+||treeleaf.sourcetaggers.com^
 ||treinecomigojacibarbosa.com.br^
 ||trello2.missiondmc.com^
 ||trivalleylimousine.com^
@@ -161594,6 +161649,7 @@ mosumumopo
 ||tuonglinh.com.vn^
 ||tupperware.michaelroberge.ca^
 ||tutorials.bhangero.com^
+||tuzlacastajanslari.bykmedya.com^
 ||twinings.grupoformax.net^
 ||ublisportal.com^
 ||ublretailerdemo.cstdevs.com^
@@ -161603,6 +161659,7 @@ mosumumopo
 ||ultimate-24.de^
 ||unicornhardware.in^
 ||unifashion.app.krazyit.com.au^
+||unisoftcc.com^
 ||unitnetwork.xyz^
 ||universalplastoind.com^
 ||unlockingdreamsfinancial.com^
@@ -161615,11 +161672,11 @@ mosumumopo
 ||vaynhanh247.net^
 ||vectarts.com^
 ||velocidadeinternet.oito5.com.br^
-||vemartsa.com^
 ||venveo.wordpressdeveloper.info^
 ||vfocus.net^
 ||vg.gurusoftware.in^
 ||vibetec.com.br^
+||victorysanitizer.com^
 ||view.pasarjaya.co.id^
 ||vihaconsultancy.com^
 ||villatera.com^
@@ -161628,10 +161685,11 @@ mosumumopo
 ||viralbeauty.id^
 ||virasea.ir^
 ||virtualoperationss.com^
-||virtuleverage.com^
 ||visam.info^
 ||vitaway.org^
+||vivationdesign.com^
 ||viveirodoiscorregos.com.br^
+||vksales.com^
 ||vmpcinformatica.com.br^
 ||volkscantonalbank.com^
 ||vologroup.com.br^
@@ -161644,9 +161702,11 @@ mosumumopo
 ||w1.zypaint.com^
 ||waddilovehighschool.com^
 ||wakanaija.com.ng^
+||walkindrivetoday.com^
 ||warsh-impex.com^
 ||washatsanjose.com^
 ||waskitaprecast.co.id^
+||wdows.com^
 ||wearsweetbomb.com^
 ||web.geomegasoft.net^
 ||web.innoservwebsites.in^
@@ -161674,6 +161734,7 @@ mosumumopo
 ||www.ahhf.co.uk^
 ||www.al-wahd.com^
 ||www.alertsecurities.in^
+||www.andrepaixaoconsultoria.com.br^
 ||www.asperiaclinic.com^
 ||www.avesplanet.com^
 ||www.bahadur.com.pk^
@@ -161705,6 +161766,7 @@ mosumumopo
 ||www.idj.no^
 ||www.isatechnology.com^
 ||www.izeltelekom.com^
+||www.katanvetov.co.il^
 ||www.kavaleto.gr^
 ||www.kjcpromo.com^
 ||www.ks.cn^
@@ -161726,8 +161788,8 @@ mosumumopo
 ||www.qsbinternational.com^
 ||www.quanminvip.cn^
 ||www.reacredit.com.br^
-||www.roofing.galacticleads.com^
 ||www.rubazar.pro^
+||www.saf-oil.ru^
 ||www.scentscharming.com^
 ||www.seida.info^
 ||www.siriusblackshop.com^
@@ -161743,6 +161805,7 @@ mosumumopo
 ||www.TradeInsights.net^
 ||www.upperkillaycc.org.uk^
 ||www.vivacuscoperu.com^
+||www.viverosvila.es^
 ||www.wfinance.com.br^
 ||www.wpkms.com^
 ||www.x2vn.com^
@@ -161755,6 +161818,7 @@ mosumumopo
 ||xingular.io^
 ||xkdopbbdwi.com^
 ||xxx247.nl^
+||xz.8dashi.com^
 ||yashfans.com^
 ||yasminkozmetik.com^
 ||yazilim.2crankara.com^
@@ -161764,6 +161828,7 @@ mosumumopo
 ||yp.hnggzyjy.cn^
 ||ytvnews.info^
 ||yuntibao.com^
+||yzkzixun.com^
 ||zad-boisdutroncay.org^
 ||zaiqathespicestore.com^
 ||zbc.vn^
