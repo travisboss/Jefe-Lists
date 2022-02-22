@@ -8,10 +8,6 @@ Big thanks to [Adguard](https://github.com/AdguardTeam/HostlistCompiler), [OISD]
 
 <hr />
 
-### Moved from energized unblock to anudeep whitelist, if find issues please raise a bug.
-
-### Removed Pegasus list see [here](https://github.com/AmnestyTech/investigations/issues/4#issuecomment-888181343)
-
 **Can use with adguard, adguard home, ublock, adblock, adblockplus, opera, adnuseaum and any service that accepts adblock styntax**
 
 All I am trying to do is compile some adblock syntax only lists with Adguards Hostlist Compiler and what you see here is:
@@ -22,5 +18,3 @@ All I am trying to do is compile some adblock syntax only lists with Adguards Ho
 4. nextdns_blocklist.txt - I have added what NextDNS uses for there default recommended list and checked against AdguardTeam HttpsExclusions and remove comments, you can find the lists here https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 
 If you are unsure what list to use I generally recommend `nextdns_blocklist.txt`, but feel free to try the others and see how they work for you. If you find an issue please submit a bug and PR's are welcome! I am looking for help to maybe streamline my github action.
-
-I have changed the name of the ticked list to wally3k_blocklist.txt and for now I have removed the non-ticked list, there are too many issues with the lists themselves and the build time is just too long and unreliable.
