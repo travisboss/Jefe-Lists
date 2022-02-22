@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist Ticked
-! Last modified: 2022-02-22T01:32:25.806Z
+! Last modified: 2022-02-22T01:46:57.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -170188,7 +170188,6 @@ mosumumopo
 ||extractjob.com^
 ||f.gogamef.com^
 ||faai-international.com^
-||familydentist.site^
 ||fard.iaweb.ir^
 ||fc.co.mz^
 ||felicienne.nl^
@@ -170566,7 +170565,6 @@ mosumumopo
 ||reatual.jp^
 ||red-ondas.org^
 ||redbats.co.in^
-||redrosepoolservice.com^
 ||reifenquick.de^
 ||relaxindulge.co.nz^
 ||renton.apttechsol.com^
