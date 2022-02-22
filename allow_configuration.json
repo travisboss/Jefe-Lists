@@ -2,7 +2,31 @@
   "name": "Jefe Allowlist",
   "sources": [
     {
-      "source": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt",
+      "type": "hosts"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/windows.txt",
       "type": "hosts"
     }
   ],
