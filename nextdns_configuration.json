@@ -10,10 +10,6 @@
       "type": "hosts"
     },
     {
-      "source": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
-      "type": "hosts"
-    },
-    {
       "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
       "type": "hosts"
     }
