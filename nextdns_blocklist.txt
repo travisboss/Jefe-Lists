@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist NextDNS
-! Last modified: 2022-03-01T07:08:43.519Z
+! Last modified: 2022-03-02T07:08:48.481Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -62413,12 +62413,12 @@
 ||zukxd6fkxqn.com^
 ||zy16eoat1w.com^
 ||t7z.cupid.iqiyi.com^
-||is.snssdk.com^
 ||wxsnsdy.wxs.qq.com^
+||is.snssdk.com^
 ||adsmind.gdtimg.com^
-||qzs.gdtimg.com^
 ||pv.sohu.com^
 ||gw.365you.com^
+||x.adnet.qq.com^
 ||c.gdt.qq.com^
 ||d.gdt.qq.com^
 ||i.gdt.qq.com^
@@ -62432,7 +62432,6 @@
 ||rpt.gdt.qq.com^
 ||win.gdt.qq.com^
 ||ipv4.gdt.qq.com^
-||x.adnet.qq.com^
 ||video.market.xiaomi.com^
 ||t1.a.market.xiaomi.com^
 ||t2.a.market.xiaomi.com^
@@ -62610,6 +62609,11 @@
 ||huichuan.sm.cn^
 ||timeserver.cnzz.net^
 ||val.atm.youku.com^
+||ykad-data.youku.com^
+||yk-ssp.ad.youku.com^
+||adashx.ut.youku.com^
+||adx-open-service.youku.com^
+||h-adashx.ut.youku.com^
 ||ggx.cmvideo.cn^
 ||adxserver.ad.cmvideo.cn^
 ||openstorage.ad.cmvideo.cn^
@@ -62851,6 +62855,9 @@
 ||app-tj.adinall.com^
 ||mobilead.kuwo.cn^
 ||splashimgbssdl.yun.kugou.com^
+||m1.ad.10010.com^
+||glores2.taisantech.com^
+||sanme2.taisantech.com^
 ||img.xuwnz.cn^
 ||img.srxjz.cn^
 ||m.shilian168.cn^
@@ -62967,6 +62974,24 @@
 ||adstats.mgc-games.com^
 ||api.snmi.cn^
 ||s.snmi.cn^
+||ssp1.kfadx.tech^
+||vapi.tiandi.com^
+||s.adxvip.com^
+||c-gtc.getui.net^
+||b-gtc.gepush.com^
+||b-gtc.getui.net^
+||talk.nz4.gepush.com^
+||talk.nz4.getui.net^
+||advert.lx.netease.com^
+||ma-adx.ctrip.com^
+||gi.gepush.com^
+||gi.getui.net^
+||b-gi.gepush.com^
+||b-gi.getui.net^
+||s.trafficjam.cn^
+||wkrd.tingyun.com^
+||mon.ad.xelements.cn^
+||imp.ad.xelements.cn^
 ||lb.usemaxserver.de^
 ||tracking.klickthru.com^
 ||gsmtop.net^
@@ -63061,6 +63086,7 @@
 ||browserkernel.baidu.com^
 ||hijack.baidu.com^
 ||feed-image.baidu.com^
+||hpd.baidu.com^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||cdn-haokanapk.baidu.com^
@@ -63074,19 +63100,21 @@
 ||sa.tuisong.baidu.com^
 ||api.tuisong.baidu.com^
 ||sa8.tuisong.baidu.com^
+||cpro.baidustatic.com^
 ||ad.qun.qq.com^
 ||adpm.app.qq.com^
 ||adrdir.qq.com^
 ||adv.app.qq.com^
 ||adver.qq.com^
+||adfilter.imtt.qq.com^
+||adsense.html5.qq.com^
+||adsolution.imtt.qq.com^
 ||d3g.qq.com^
 ||jqmt.qq.com^
 ||jsqmt.qq.com^
 ||ta.qq.com^
 ||p.tencentmind.com^
 ||dp3.qq.com^
-||commdata6.v.qq.com^
-||sdksp6.video.qq.com^
 ||android.rqd.qq.com^
 ||api.poll.aiseet.atianqi.com^
 ||btrace.qq.com^
@@ -63106,6 +63134,10 @@
 ||ten.sngapm.qq.com^
 ||ads.privacy.qq.com^
 ||tdid.m.qq.com^
+||mtt.str.mdt.qq.com^
+||tmeadcomm.y.qq.com^
+||qzs.gdtimg.com^
+||public.gdtimg.com^
 ||adash.man.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||ynuf.aliapp.org^
@@ -63235,7 +63267,6 @@
 ||ad.caiyunapp.com^
 ||adcore.lenovomm.com^
 ||ad.dev.360.cn^
-||adfilter.imtt.qq.com^
 ||ad.gamebox.360.cn^
 ||adgeo.163.com^
 ||ad.greedland.net^
@@ -63252,11 +63283,9 @@
 ||adpublish.ydstatic.com^
 ||adres.myaora.net^
 ||adsence.sogou.com^
-||adsense.html5.qq.com^
 ||adserve2.tom.com^
 ||ads.gionee.com^
 ||ad.sohu.com^
-||adsolution.imtt.qq.com^
 ||adsp.xunlei.com^
 ||ads.service.kugou.com^
 ||adss.yahoo.com^
