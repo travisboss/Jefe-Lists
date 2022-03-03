@@ -1,0 +1,49 @@
+          {
+            "name": "Jefe Tracking Native Tracking",
+            "sources": [
+                {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa",
+                    "type": "hosts"
+                  },
+                  {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa",
+                    "type": "hosts"
+                  },
+                  {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple",
+                    "type": "hosts"
+                  },
+                  {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
+                    "type": "hosts"
+                  },
+                  {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku",
+                    "type": "hosts"
+                  },
+                  {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung",
+                    "type": "hosts"
+                  },
+                  {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos",
+                    "type": "hosts"
+                  },
+                  {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows",
+                    "type": "hosts"
+                  },
+                  {
+                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi",
+                    "type": "hosts"
+                  }
+            ],
+            "transformations": [
+              "Deduplicate",
+              "Compress",
+              "RemoveModifiers",
+              "RemoveComments",
+              "Validate"
+            ],
+            "exclusions_sources": ["allowlist.txt"]
+          }
