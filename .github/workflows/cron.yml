@@ -32,6 +32,7 @@ jobs:
           hostlist-compiler -c allow_configuration.json -o allowlist.txt
           hostlist-compiler -c oisd_configuration.json -o oisd_blocklist.txt
           hostlist-compiler -c nextdns_configuration.json -o nextdns_blocklist.txt
+          hostlist-compiler -c deviceTracking_configuration.json -o deviceTracking_blocklist.txt
           hostlist-compiler -c wally3k_configuration.json -o wally3k_blocklist.txt
       - name: Commit files
         run: |
