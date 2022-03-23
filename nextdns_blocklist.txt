@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist NextDNS
-! Last modified: 2022-03-22T07:10:06.248Z
+! Last modified: 2022-03-23T07:10:14.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
