@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist NextDNS
-! Last modified: 2022-04-01T07:10:49.372Z
+! Last modified: 2022-04-02T07:09:31.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -69235,10 +69235,6 @@
 ||adclick.tencentmusic.com^
 ||g1.163.com^
 ||nex.163.com^
-||ali-stats.jpush.cn^
-||gd-stats.jpush.cn^
-||tsis.jpush.cn^
-||bjuser.jpush.cn^
 ||admusicpic.music.126.net^
 ||iadmusicmat.music.126.net^
 ||clientlog3.music.163.com^
@@ -69406,7 +69402,6 @@
 ||mon.ad.xelements.cn^
 ||imp.ad.xelements.cn^
 ||league1.maoyuncloud.cn^
-||lupic.cdn.bcebos.com^
 ||amap-aos-info-nogw.amap.com^
 ||adreport.adtianmai.com^
 ||adapi.izuiyou.com^
@@ -69428,7 +69423,6 @@
 ||adnew.wifi8.com^
 ||ad.ikonke.com^
 ||smart-789.kakamobi.cn^
-||smart-789.image.mucang.cn^
 ||short-video.kakamobi.cn^
 ||ad.quwin.cn^
 ||adserviceretry.kugou.com^
@@ -69532,6 +69526,19 @@
 ||mobilead.kuwo.cn^
 ||splashimgbssdl.yun.kugou.com^
 ||m1.ad.10010.com^
+||api.openinstall.io^
+||ads.oneway.mobi^
+||ads.oway.mobi^
+||owads.audioadx.com^
+||p3.adkwai.com^
+||ali-stats.jpush.cn^
+||gd-stats.jpush.cn^
+||tsis.jpush.cn^
+||bjuser.jpush.cn^
+||nmobi.kuwo.cn^
+||ddt02.shenghao88.top^
+||qlaops3.jndxwl.com^
+||apid.feikaiwadingguan.com^
 ||lb.usemaxserver.de^
 ||tracking.klickthru.com^
 ||gsmtop.net^
@@ -69551,7 +69558,6 @@
 ||mobile.Banzai.it^
 ||ads.xxxad.net^
 ||bigmobileads.com^
-||images.mpression.net^
 ||assets.cntdy.mobi^
 ||rs-staticart.ybcdn.net^
 ||img.ads.taptapnetworks.com^
@@ -69624,7 +69630,6 @@
 ||tcbox.baidu.com^
 ||browserkernel.baidu.com^
 ||hijack.baidu.com^
-||feed-image.baidu.com^
 ||hpd.baidu.com^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
@@ -69678,6 +69683,8 @@
 ||public.gdtimg.com^
 ||cmshow.gtimg.cn^
 ||qappcenterv6.3g.qq.com^
+||cc.map.qq.com^
+||aegis.qq.com^
 ||adash.man.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||ynuf.aliapp.org^
@@ -69837,6 +69844,8 @@
 ||ad.gtbrowser.com^
 ||www.admarket.mobi^
 ||z.sora.yoyi.com.cn^
+||03.lzzncm.com^
+||04.lzzncm.com^
 ||all.cnzz.com.danuoyi.tbcache.com^
 ||z3.cnzz.com^
 ||s4.cnzz.com^
