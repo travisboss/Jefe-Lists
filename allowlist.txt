@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-04-04T07:08:46.889Z
+! Last modified: 2022-04-05T07:08:46.932Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3671,7 +3671,6 @@
 @@dl.dropboxusercontent.com
 @@eff.org
 @@mozilla.net
-@@mozilla.org
 @@mozilla.com
 @@d13itkw33a7sus.cloudfront.net
 @@stickypassword.com
