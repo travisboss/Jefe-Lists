@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-04-19T07:08:34.249Z
+! Last modified: 2022-04-20T07:08:30.416Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -586,6 +586,7 @@
 @@changehero.io
 @@changelly.com
 @@chartersavingsbank.co.uk
+@@chase.co.uk
 @@chase.com
 @@chasecanada.ca
 @@chb.com.tw
@@ -1630,6 +1631,7 @@
 @@merckfinck.de
 @@merkantil.hu
 @@metabankonline.com.ua
+@@metrobankonline.co.uk
 @@metzler.com
 @@mfb.hu
 @@mfbank.ru
@@ -3753,6 +3755,9 @@
 @@www.re-store.ru
 @@www.antonioli.eu
 @@raindrop.io
+@@lk.billing74.ru
+@@protonmail.com
+@@protonvpn.com
 @@gorzdrav.spb.ru
 @@hrblock.com
 @@accounts.google.com
