@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Blocklist NextDNS
-! Last modified: 2022-04-30T07:09:09.622Z
+! Last modified: 2022-05-01T07:13:44.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -64301,9 +64301,6 @@
 ||ggx01.miguvideo.com^
 ||ggx02.miguvideo.com^
 ||ggx10.miguvideo.com^
-||at-img1.tdimg.com^
-||at-img2.tdimg.com^
-||at-img3.tdimg.com^
 ||3.iscrv.com^
 ||www.wjxcdn.com^
 ||adsmis.duxiaoman.com^
@@ -64424,8 +64421,6 @@
 ||uapi.ads.oppomobile.com^
 ||adsstatic.vivo.com.cn^
 ||stnetsdk.appstore.vivo.com.cn^
-||img.xuwnz.cn^
-||img.srxjz.cn^
 ||m.shilian168.cn^
 ||m.zdjgj.cn^
 ||ee.j5s9b.cn^
@@ -64668,6 +64663,7 @@
 ||api.fc.mob.com^
 ||app-tj.adinall.com^
 ||mobilead.kuwo.cn^
+||nmobi.kuwo.cn^
 ||splashimgbssdl.yun.kugou.com^
 ||m1.ad.10010.com^
 ||api.openinstall.io^
@@ -64679,10 +64675,6 @@
 ||gd-stats.jpush.cn^
 ||tsis.jpush.cn^
 ||bjuser.jpush.cn^
-||nmobi.kuwo.cn^
-||ddt02.shenghao88.top^
-||qlaops3.jndxwl.com^
-||apid.feikaiwadingguan.com^
 ||lb.usemaxserver.de^
 ||tracking.klickthru.com^
 ||gsmtop.net^
@@ -64859,8 +64851,6 @@
 ||adashx4yt.m.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
 ||umdc.aliapp.org^
-||gaode-acs.m.taobao.com^
-||gaode-jmacs.m.taobao.com^
 ||s9.irs03.com^
 ||s72f5a8e.irs03.com^
 ||s06aa680.irs03.com^
