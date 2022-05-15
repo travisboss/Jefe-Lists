@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-05-14T07:14:35.865Z
+! Last modified: 2022-05-15T07:08:13.965Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -137,6 +137,7 @@
 @@account.ubank.ru
 @@accounts.binance.com
 @@acikdeniz.denizbank.com
+@@acikdenizv2.denizbank.com
 @@acledabank-internetbanking.com
 @@acorns.com
 @@acs-education.com
@@ -155,6 +156,7 @@
 @@agibank.com.br
 @@agorainvestimentos.com.br
 @@agribank.com.vn
+@@ahesube.anadoluhayat.com.tr
 @@aib.ie
 @@ais.snbank.ru
 @@akb.ch
@@ -386,7 +388,7 @@
 @@basvuru.denizbank.com
 @@bb.com.br
 @@bbacbank.com
-@@Bbancobmg.com.br
+@@bbancobmg.com.br
 @@bbank.ru
 @@bbbank.de
 @@bbclick.baltbank.ru
@@ -445,6 +447,7 @@
 @@bigbank.ee
 @@bil.com
 @@billdesk.com
+@@bireysel.turkishbank.com
 @@bisbank.com.ua
 @@bistrozaim.ua
 @@bitfinex.com
@@ -841,12 +844,16 @@
 @@erfurter-bank.de
 @@erzgebirgssparkasse.de
 @@esube.abank.com.tr
-@@esube.albarakaturk.com.tr
+@@esube.albaraka.com.tr
 @@esube.bankasya.com.tr
 @@esube.burgan.com.tr
 @@esube.eximbank.gov.tr
+@@esube.teb.com.tr
 @@esube.turkishbank.com
 @@esube.turkishcards.com
+@@esube.turkiyehayatemeklilik.com.tr
+@@esube.ziraatkatilim.com.tr
+@@esube1.ziraatyatirim.com.tr
 @@esunbank.com.tw
 @@ethikbank-onlinebanking.de
 @@etrade.com
@@ -971,6 +978,8 @@
 @@hafnerbank.de
 @@hagnauer-volksbank.de
 @@halifax-online.co.uk
+@@halkbank.mk
+@@halkbank.rs
 @@halkbankgayrimenkul.com.tr
 @@hallertauer-volksbank.de
 @@halykpay.kz
@@ -1371,11 +1380,13 @@
 @@internet-banking.dbsbank.in
 @@internet-banking.hk.dbs.com
 @@internet.1mbank.ru
+@@internet.hsbc.com.tr
 @@internet.ocbc.com
 @@internetbank.armbusinessbank.am
 @@internetbank.nsb.lk
 @@internetbank.swedbank.se
 @@internetbanka.cz
+@@internetbankaciligi.fibabanka.com.tr
 @@internetbanken.privat.nordea.se
 @@internetbanking.btn.co.id
 @@internetbanking.caixa.gov.br
@@ -1383,9 +1394,15 @@
 @@internetbanking.suncorpbank.com.au
 @@internetpanin.com
 @@internetsube.turkiyefinans.com.tr
+@@internetsube.yapikredi.com.tr
+@@internetsubesi.akbank.com
+@@internetsubesi.emirvarlik.com
 @@internetsubesi.fibabanka.com.tr
 @@internetsubesi.finansbank.enpara.com
+@@internetsubesi.ing.com.tr
+@@internetsubesi.qnbfinansbank.com
 @@intesasanpaolo.com
+@@intvrg.gib.gov.tr
 @@investbank.com.ua
 @@investbank2.com.ua
 @@investor.vps.no
@@ -1398,14 +1415,20 @@
 @@isbank.com.tr
 @@isnbank.ru
 @@isube.anadolubank.com.tr
+@@isube.emlakkatilim.com.tr
+@@isube.goldenglobalbank.com.tr
 @@isube.kuveytturk.com.tr
+@@isube.param.com.tr
 @@isube.tbank.com.tr
+@@isube.turkishyatirim.com
+@@isube.vakifkatilim.com.tr
 @@it.tb.by
 @@itau.cl
 @@itau.co
 @@itau.com.br
 @@itiny.industrialbank.ua
 @@itscenter.alipay.com
+@@ivd.gib.gov.tr
 @@ivybank.ru
 @@iw.unistream.ru
 @@izhcard.ru
@@ -1523,6 +1546,10 @@
 @@kucoin.com
 @@kunden-mkb-bank.de
 @@kurskprombank.ru
+@@kurumsal.aktifbank.com.tr
+@@kurumsal.param.com.tr
+@@kurumsal.turkishbank.com
+@@kurumsalinternetsubesi.ing.com.tr
 @@kuzbank.ru
 @@kuzbasshimbank.ru
 @@kvartplata.ru
@@ -1866,6 +1893,7 @@
 @@online.ocbcnisp.com
 @@online.odeabank.com.tr
 @@online.oschadbank.ua
+@@online.osmanlimenkul.com.tr
 @@online.pabcbank.com
 @@online.pchrb.ru
 @@online.piraeusbank.ua
@@ -1986,6 +2014,7 @@
 @@palmettohealthcu.org
 @@paranabanco.com.br
 @@pashabank.az
+@@pashaonline.pashabank.com.tr
 @@pasientsky.no
 @@passolig.com.tr
 @@pax-bank.de
@@ -2096,6 +2125,7 @@
 @@pps.fuib.com
 @@prbkbr-ibank2.ru
 @@primbank.ru
+@@prime.tebyatirim.com.tr
 @@prior.by
 @@priorbank.by
 @@priovtb.com
@@ -2104,6 +2134,7 @@
 @@privatbank.ua
 @@privatbank1891.com
 @@pro.coinbase.com
+@@pro.ziraatyatirim.com.tr
 @@procreditbank.com.ua
 @@procreditbank.de
 @@profitbank.ru
@@ -2126,6 +2157,7 @@
 @@psd-rheinneckarsaar.de
 @@psd-westfalen-lippe.de
 @@psdbank-ht.de
+@@pttbank.ptt.gov.tr
 @@pvu.nets.no
 @@qantasmoney.com
 @@qiwi.com
@@ -2568,6 +2600,7 @@
 @@secure.bnpparibas.net
 @@secure.booking.com
 @@secure.commercegate.com
+@@secure.creditwestbank.com
 @@secure.ecopayz.com
 @@secure.gate2shop.com
 @@secure.getinbank.pl
@@ -2591,6 +2624,7 @@
 @@secure.ucs.su
 @@secure.upc.ua
 @@secure.ya.no
+@@secure.yakindogubank.com
 @@secure3.nsandi.com
 @@secure4.segpay.com
 @@secure5.arcot.com
@@ -3008,8 +3042,11 @@
 @@steylerbank.de
 @@stone.com.br
 @@stripe.com
+@@sube.garantibbva.com.tr
 @@sube.halkbank.com.tr
+@@sube.halkyatirim.com.tr
 @@sube.iktisatbank.com
+@@sube.oyakyatirim.com.tr
 @@sube.sekerbank.com.tr
 @@subesizbankacilik.vakifbank.com.tr
 @@suncorp.com.au
@@ -3065,6 +3102,7 @@
 @@thepay.com.ua
 @@theworldexchange.net
 @@tiaa.org
+@@ticari.yapikredi.com.tr
 @@ticket.uz.gov.ua
 @@tinkoff.ru
 @@tisco.co.th
@@ -3140,6 +3178,9 @@
 @@userede.com.br
 @@utb.ru
 @@v-vb.de
+@@vakif-bank.de
+@@vakifbank.at
+@@vakifbankusa.com
 @@valiant.ch
 @@vanguard.com
 @@varengold.de
@@ -3589,7 +3630,7 @@
 @@wayforpay.com
 @@wb.mosoblbank.ru
 @@wealthbar.com
-@@Wealthfront.com
+@@wealthfront.com
 @@wealthsimple.com
 @@web.bancadigitalbod.com
 @@web.hellenicbank.com
@@ -3662,7 +3703,16 @@
 @@zarech.ru
 @@zaymer.ru
 @@ziraatbank.az
+@@ziraatbank.ba
+@@ziraatbank.bg
+@@ziraatbank.co.uk
+@@ziraatbank.com.gr
 @@ziraatbank.com.tr
+@@ziraatbank.de
+@@ziraatbank.me
+@@ziraatbank.ru
+@@ziraatbank.uz
+@@ziraatyatirim.matrikswebtrader.com
 @@zkb.ch
 @@accounts.firefox.com
 @@8pecxstudios.com
