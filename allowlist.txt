@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-05-26T07:08:45.966Z
+! Last modified: 2022-05-27T07:08:49.864Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
