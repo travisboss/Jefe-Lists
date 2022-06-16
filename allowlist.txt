@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-06-14T07:08:19.154Z
+! Last modified: 2022-06-16T07:07:56.380Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1798,6 +1798,7 @@
 @@nobaeg.de
 @@nokss.ru
 @@nordea.com
+@@nordea.fi
 @@nordea.ru
 @@nordea.se
 @@nordeanetbank.dk
@@ -2707,7 +2708,6 @@
 @@sofinet.com.ve
 @@sofisadireto.com.br
 @@solicitudestarjetas.banesco.net
-@@solo1.nordea.fi
 @@sorexpay.com
 @@southindianbank.com
 @@sovcombank.ru
