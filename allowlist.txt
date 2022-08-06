@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-08-05T07:08:01.682Z
+! Last modified: 2022-08-06T07:08:01.391Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -384,6 +384,7 @@
 @@barclaycard.co.uk
 @@barclaycard.de
 @@barclaycardus.com
+@@barclays.de
 @@barclays.co.uk
 @@barokart.com.tr
 @@basvuru.denizbank.com
@@ -2019,6 +2020,7 @@
 @@pagbrasil.com
 @@pagseguro.uol.com.br
 @@palmettohealthcu.org
+@@paragonbank.co.uk
 @@paranabanco.com.br
 @@pashabank.az
 @@pashaonline.pashabank.com.tr
