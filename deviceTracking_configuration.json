@@ -1,10 +1,6 @@
           {
             "name": "Jefe Tracking Native Tracking",
             "sources": [
-                {
-                    "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa",
-                    "type": "hosts"
-                  },
                   {
                     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa",
                     "type": "hosts"
