@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-10-10T07:29:52.752Z
+! Last modified: 2022-10-11T07:30:35.269Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -375,6 +375,7 @@
 @@banktrust.com.ua
 @@bankuralsib.ru
 @@bankvostok.com.ua
+@@bankwest.com.au
 @@banorte.com
 @@banpara.b.br
 @@banplusonline.com
@@ -492,6 +493,7 @@
 @@boc.cn
 @@bochk.com
 @@bodenseebank.de
+@@boq.com.au
 @@bok.com.tw
 @@bop.com.tw
 @@bopfinger-bank.de
@@ -656,6 +658,7 @@
 @@commerzbank.de
 @@commerzbank.hu
 @@commerzfinanz.com
+@@commsec.com.au
 @@companyonline.ch
 @@compound.finance
 @@computershare.com
@@ -931,6 +934,7 @@
 @@frankenberger-bank.de
 @@frankfurter-sparkasse.de
 @@frankfurter-volksbank.de
+@@frostbank.com
 @@fryksdalenssparbank.se
 @@fs-bank.de
 @@ftx.com
@@ -1012,6 +1016,7 @@
 @@heidelberger-volksbank.de
 @@helaba.de
 @@hellenicnetbanking.com
+@@hellostake.com
 @@hembanken2.danskebank.se
 @@hermsdorfer-kreuz.de
 @@herner-sparkasse.de
@@ -1931,6 +1936,7 @@
 @@online.woodforest.com
 @@onlineapp.unibank.az
 @@onlinebank.kz
+@@onlinebanking.53.com
 @@onlinebanking-aktivbank.de
 @@onlinebanking-alxinger-bank.de
 @@onlinebanking-bankhausbauer.de
@@ -2561,6 +2567,7 @@
 @@santander.cl
 @@santander.com.br
 @@santander.com.co
+@@santander.com.mx
 @@santander.de
 @@santander.nl
 @@santanderbank.com
