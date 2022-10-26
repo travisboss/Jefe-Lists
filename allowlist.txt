@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-10-25T07:36:01.183Z
+! Last modified: 2022-10-26T07:11:52.644Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1927,6 +1927,7 @@
 @@online.osmanlimenkul.com.tr
 @@online.pabcbank.com
 @@online.pchrb.ru
+@@online.peple.com.tr
 @@online.piraeusbank.ua
 @@online.pocztowy.pl
 @@online.procreditbank.am
