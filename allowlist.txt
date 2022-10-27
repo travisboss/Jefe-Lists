@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-10-26T07:11:52.644Z
+! Last modified: 2022-10-27T07:09:39.467Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -450,6 +450,7 @@
 @@bigbank.ee
 @@bil.com
 @@billdesk.com
+@@bireysel.payfix.com.tr
 @@bireysel.turkishbank.com
 @@bisbank.com.ua
 @@bistrozaim.ua
@@ -2046,6 +2047,7 @@
 @@pagseguro.uol.com.br
 @@palmettohealthcu.org
 @@paragonbank.co.uk
+@@param.com.tr
 @@paranabanco.com.br
 @@pashabank.az
 @@pashaonline.pashabank.com.tr
@@ -3083,6 +3085,7 @@
 @@sube.iktisatbank.com
 @@sube.oyakyatirim.com.tr
 @@sube.sekerbank.com.tr
+@@subesiz.vakifbank.com.tr
 @@subesizbankacilik.vakifbank.com.tr
 @@suncorp.com.au
 @@sunnybank.com.tw
