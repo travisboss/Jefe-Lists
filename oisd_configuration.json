@@ -2,7 +2,7 @@
   "name": "Jefe Blocklist OISD + DoH",
   "sources": [
     {
-      "source": "https://abp.oisd.nl/",
+      "source": "https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_full.txt/",
       "type": "adblock"
     },
     {

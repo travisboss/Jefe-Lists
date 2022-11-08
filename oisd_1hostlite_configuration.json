@@ -2,11 +2,11 @@
     "name": "Jefe Blocklist OISD + 1Host Lite",
     "sources": [
       {
-        "source": "https://abp.oisd.nl/",
+        "source": "https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_full.txt",
         "type": "adblock"
       },
       {
-        "source": "https://o0.pages.dev/mini/adblock.txt",
+        "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
         "type": "adblock"
       }
     ],
