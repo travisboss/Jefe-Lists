@@ -1,0 +1,21 @@
+{
+    "name": "Jefe Blocklist OISD + DoH",
+    "sources": [
+      {
+        "source": "https://abp.oisd.nl/",
+        "type": "adblock"
+      },
+      {
+        "source": "https://o0.pages.dev/mini/adblock.txt",
+        "type": "adblock"
+      }
+    ],
+    "transformations": [
+      "Deduplicate",
+      "RemoveModifiers",
+      "RemoveComments",
+      "Validate"
+    ],
+    "exclusions_sources": ["allowlist.txt"]
+  }
+  
