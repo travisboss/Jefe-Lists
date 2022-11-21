@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-11-08T15:13:13.273Z
+! Last modified: 2022-11-21T14:28:13.984Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -924,6 +924,7 @@
 @@finansonline.com
 @@finanzcenter.sparkasse-bremen.de
 @@fineco.it
+@@finecobank.com
 @@fio.cz
 @@firstbank.com.tw
 @@firstbankcard.com
