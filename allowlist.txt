@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-11-22T07:08:49.426Z
+! Last modified: 2022-11-23T07:07:43.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3841,6 +3841,7 @@
 @@static.adtidy.org
 @@link.adtidy.org
 @@api.adguard.org
+@@voipnx-saturn.line-apps.com
 @@emploiquebec.gouv.qc.ca
 @@apple.com
 @@icloud.com
