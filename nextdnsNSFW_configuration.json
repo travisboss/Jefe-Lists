@@ -2,18 +2,6 @@
     "name": "Jefe Tracking Native Tracking",
     "sources": [
           {
-            "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa",
-            "type": "hosts"
-          },
-          {
-            "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple",
-            "type": "hosts"
-          },
-          {
-            "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
-            "type": "hosts"
-          },
-          {
             "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/porn",
             "type": "hosts"
           },
@@ -24,7 +12,7 @@
           {
             "source": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
             "type": "hosts"
-          },
+          }
     ],
     "transformations": [
       "Deduplicate",
