@@ -35,6 +35,7 @@ jobs:
           hostlist-compiler -c deviceTracking_configuration.json -o deviceTracking_blocklist.txt
           hostlist-compiler -c wally3k_configuration.json -o wally3k_blocklist.txt
           hostlist-compiler -c oisd_1hostlite_configuration.json -o oisd_1hostlite_blocklist.txt
+          hostlist-compiler -c nextdnsNSFW_configuration.json -o nextdnsNSFW_blocklist.txt
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
