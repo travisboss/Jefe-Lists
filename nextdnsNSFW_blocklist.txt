@@ -1,6 +1,6 @@
 !
-! Title: Jefe Tracking Native Tracking
-! Last modified: 2022-12-16T17:31:10.467Z
+! Title: NextDNS NSFW
+! Last modified: 2022-12-16T17:39:01.612Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
