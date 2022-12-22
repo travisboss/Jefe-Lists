@@ -1,6 +1,6 @@
 !
 ! Title: Jefe Allowlist
-! Last modified: 2022-12-21T07:07:20.785Z
+! Last modified: 2022-12-22T07:07:33.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -455,6 +455,7 @@
 @@bisbank.com.ua
 @@bistrozaim.ua
 @@bitfinex.com
+@@bitget.com
 @@bitpanda.com
 @@bitso.com
 @@bitstamp.net
@@ -540,6 +541,7 @@
 @@buyway.be
 @@bv-activebanking.de
 @@bv.com.br
+@@bybit.com
 @@byblosbank.com.lb
 @@bystrobank.ru
 @@c6bank.com.br
@@ -1322,6 +1324,7 @@
 @@ibank2r.vfbank.ru
 @@ibanka.seb.lv
 @@ibanking-services.com
+@@ibanking.bankofmelbourne.com.au
 @@ibanking.vtb.am
 @@ibankr.ricbank.com
 @@ibankretail.nbg.gr
@@ -2514,6 +2517,7 @@
 @@recargapay.com.br
 @@redwoodcu.org
 @@regiobank.nl
+@@renault-bank-direkt.at
 @@renault-bank-direkt.de
 @@resonabank.co.jp
 @@resursbank.se
@@ -2598,6 +2602,7 @@
 @@sbab.se
 @@sber-bank.by
 @@sberbank-ast.ru
+@@sberbank.com
 @@sberbank.hu
 @@sberbank.kz
 @@sberbank.ru
@@ -3756,7 +3761,6 @@
 @@ziraatbank.uz
 @@ziraatyatirim.matrikswebtrader.com
 @@zkb.ch
-@@sberbank.com
 @@accounts.firefox.com
 @@8pecxstudios.com
 @@adtidy.org
