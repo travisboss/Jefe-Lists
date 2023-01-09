@@ -1,4 +1,4 @@
-# I will take these lists down on 01/16/2023, thank you all.
+# I will take these lists down on 01/16/2023, thank you all. My suggest is to look at [Hagezi Lists](https://github.com/hagezi/dns-blocklists)
 
 [![Cron CI](https://github.com/travisboss/Jefe-Lists/actions/workflows/cron.yml/badge.svg?branch=main)](https://github.com/travisboss/Jefe-Lists/actions/workflows/cron.yml)
 
