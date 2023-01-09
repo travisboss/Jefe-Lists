@@ -1,3 +1,5 @@
+# I will take these lists down on 01/16/2023, thank you all.
+
 [![Cron CI](https://github.com/travisboss/Jefe-Lists/actions/workflows/cron.yml/badge.svg?branch=main)](https://github.com/travisboss/Jefe-Lists/actions/workflows/cron.yml)
 
 [NextDNS Referral Code](https://nextdns.io/?from=nwmzs7gc)
