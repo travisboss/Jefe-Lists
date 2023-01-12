@@ -1,6 +1,6 @@
 !
 ! Title: NextDNS NSFW
-! Last modified: 2023-01-11T07:12:29.091Z
+! Last modified: 2023-01-12T07:11:13.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
